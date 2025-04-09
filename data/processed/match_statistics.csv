@@ -1,0 +1,3027 @@
+fixture_id,team,stat_type,value
+1035037,Burnley,Shots on Goal,1
+1035037,Burnley,Shots off Goal,3
+1035037,Burnley,Total Shots,6
+1035037,Burnley,Blocked Shots,2
+1035037,Burnley,Shots insidebox,5
+1035037,Burnley,Shots outsidebox,1
+1035037,Burnley,Fouls,11
+1035037,Burnley,Corner Kicks,6
+1035037,Burnley,Offsides,0
+1035037,Burnley,Ball Possession,34%
+1035037,Burnley,Yellow Cards,
+1035037,Burnley,Red Cards,1
+1035037,Burnley,Goalkeeper Saves,5
+1035037,Burnley,Total passes,365
+1035037,Burnley,Passes accurate,290
+1035037,Burnley,Passes %,79%
+1035037,Burnley,expected_goals,0.33
+1035037,Manchester City,Shots on Goal,8
+1035037,Manchester City,Shots off Goal,4
+1035037,Manchester City,Total Shots,17
+1035037,Manchester City,Blocked Shots,5
+1035037,Manchester City,Shots insidebox,14
+1035037,Manchester City,Shots outsidebox,3
+1035037,Manchester City,Fouls,8
+1035037,Manchester City,Corner Kicks,5
+1035037,Manchester City,Offsides,1
+1035037,Manchester City,Ball Possession,66%
+1035037,Manchester City,Yellow Cards,
+1035037,Manchester City,Red Cards,0
+1035037,Manchester City,Goalkeeper Saves,1
+1035037,Manchester City,Total passes,706
+1035037,Manchester City,Passes accurate,634
+1035037,Manchester City,Passes %,90%
+1035037,Manchester City,expected_goals,2.08
+1035038,Arsenal,Shots on Goal,7
+1035038,Arsenal,Shots off Goal,3
+1035038,Arsenal,Total Shots,15
+1035038,Arsenal,Blocked Shots,5
+1035038,Arsenal,Shots insidebox,8
+1035038,Arsenal,Shots outsidebox,7
+1035038,Arsenal,Fouls,12
+1035038,Arsenal,Corner Kicks,8
+1035038,Arsenal,Offsides,2
+1035038,Arsenal,Ball Possession,78%
+1035038,Arsenal,Yellow Cards,2
+1035038,Arsenal,Red Cards,
+1035038,Arsenal,Goalkeeper Saves,1
+1035038,Arsenal,Total passes,769
+1035038,Arsenal,Passes accurate,693
+1035038,Arsenal,Passes %,90%
+1035038,Arsenal,expected_goals,0.83
+1035038,Nottingham Forest,Shots on Goal,2
+1035038,Nottingham Forest,Shots off Goal,3
+1035038,Nottingham Forest,Total Shots,6
+1035038,Nottingham Forest,Blocked Shots,1
+1035038,Nottingham Forest,Shots insidebox,4
+1035038,Nottingham Forest,Shots outsidebox,2
+1035038,Nottingham Forest,Fouls,12
+1035038,Nottingham Forest,Corner Kicks,3
+1035038,Nottingham Forest,Offsides,1
+1035038,Nottingham Forest,Ball Possession,22%
+1035038,Nottingham Forest,Yellow Cards,2
+1035038,Nottingham Forest,Red Cards,
+1035038,Nottingham Forest,Goalkeeper Saves,5
+1035038,Nottingham Forest,Total passes,200
+1035038,Nottingham Forest,Passes accurate,137
+1035038,Nottingham Forest,Passes %,69%
+1035038,Nottingham Forest,expected_goals,1.18
+1035039,Bournemouth,Shots on Goal,5
+1035039,Bournemouth,Shots off Goal,6
+1035039,Bournemouth,Total Shots,14
+1035039,Bournemouth,Blocked Shots,3
+1035039,Bournemouth,Shots insidebox,5
+1035039,Bournemouth,Shots outsidebox,9
+1035039,Bournemouth,Fouls,9
+1035039,Bournemouth,Corner Kicks,10
+1035039,Bournemouth,Offsides,0
+1035039,Bournemouth,Ball Possession,63%
+1035039,Bournemouth,Yellow Cards,1
+1035039,Bournemouth,Red Cards,
+1035039,Bournemouth,Goalkeeper Saves,1
+1035039,Bournemouth,Total passes,517
+1035039,Bournemouth,Passes accurate,423
+1035039,Bournemouth,Passes %,82%
+1035039,Bournemouth,expected_goals,1.37
+1035039,West Ham,Shots on Goal,3
+1035039,West Ham,Shots off Goal,9
+1035039,West Ham,Total Shots,16
+1035039,West Ham,Blocked Shots,4
+1035039,West Ham,Shots insidebox,12
+1035039,West Ham,Shots outsidebox,4
+1035039,West Ham,Fouls,14
+1035039,West Ham,Corner Kicks,4
+1035039,West Ham,Offsides,2
+1035039,West Ham,Ball Possession,37%
+1035039,West Ham,Yellow Cards,4
+1035039,West Ham,Red Cards,
+1035039,West Ham,Goalkeeper Saves,4
+1035039,West Ham,Total passes,304
+1035039,West Ham,Passes accurate,206
+1035039,West Ham,Passes %,68%
+1035039,West Ham,expected_goals,1.07
+1035041,Everton,Shots on Goal,9
+1035041,Everton,Shots off Goal,6
+1035041,Everton,Total Shots,19
+1035041,Everton,Blocked Shots,4
+1035041,Everton,Shots insidebox,14
+1035041,Everton,Shots outsidebox,5
+1035041,Everton,Fouls,12
+1035041,Everton,Corner Kicks,10
+1035041,Everton,Offsides,6
+1035041,Everton,Ball Possession,41%
+1035041,Everton,Yellow Cards,0
+1035041,Everton,Red Cards,
+1035041,Everton,Goalkeeper Saves,1
+1035041,Everton,Total passes,366
+1035041,Everton,Passes accurate,288
+1035041,Everton,Passes %,79%
+1035041,Everton,expected_goals,2.73
+1035041,Fulham,Shots on Goal,2
+1035041,Fulham,Shots off Goal,6
+1035041,Fulham,Total Shots,9
+1035041,Fulham,Blocked Shots,1
+1035041,Fulham,Shots insidebox,6
+1035041,Fulham,Shots outsidebox,3
+1035041,Fulham,Fouls,6
+1035041,Fulham,Corner Kicks,4
+1035041,Fulham,Offsides,3
+1035041,Fulham,Ball Possession,59%
+1035041,Fulham,Yellow Cards,2
+1035041,Fulham,Red Cards,
+1035041,Fulham,Goalkeeper Saves,9
+1035041,Fulham,Total passes,556
+1035041,Fulham,Passes accurate,470
+1035041,Fulham,Passes %,85%
+1035041,Fulham,expected_goals,1.50
+1035040,Brighton,Shots on Goal,12
+1035040,Brighton,Shots off Goal,10
+1035040,Brighton,Total Shots,27
+1035040,Brighton,Blocked Shots,5
+1035040,Brighton,Shots insidebox,20
+1035040,Brighton,Shots outsidebox,7
+1035040,Brighton,Fouls,11
+1035040,Brighton,Corner Kicks,6
+1035040,Brighton,Offsides,2
+1035040,Brighton,Ball Possession,71%
+1035040,Brighton,Yellow Cards,2
+1035040,Brighton,Red Cards,
+1035040,Brighton,Goalkeeper Saves,2
+1035040,Brighton,Total passes,605
+1035040,Brighton,Passes accurate,551
+1035040,Brighton,Passes %,91%
+1035040,Brighton,expected_goals,4.01
+1035040,Luton,Shots on Goal,3
+1035040,Luton,Shots off Goal,4
+1035040,Luton,Total Shots,9
+1035040,Luton,Blocked Shots,2
+1035040,Luton,Shots insidebox,7
+1035040,Luton,Shots outsidebox,2
+1035040,Luton,Fouls,12
+1035040,Luton,Corner Kicks,7
+1035040,Luton,Offsides,3
+1035040,Luton,Ball Possession,29%
+1035040,Luton,Yellow Cards,2
+1035040,Luton,Red Cards,
+1035040,Luton,Goalkeeper Saves,8
+1035040,Luton,Total passes,234
+1035040,Luton,Passes accurate,168
+1035040,Luton,Passes %,72%
+1035040,Luton,expected_goals,1.48
+1035042,Sheffield Utd,Shots on Goal,1
+1035042,Sheffield Utd,Shots off Goal,4
+1035042,Sheffield Utd,Total Shots,8
+1035042,Sheffield Utd,Blocked Shots,3
+1035042,Sheffield Utd,Shots insidebox,4
+1035042,Sheffield Utd,Shots outsidebox,4
+1035042,Sheffield Utd,Fouls,18
+1035042,Sheffield Utd,Corner Kicks,5
+1035042,Sheffield Utd,Offsides,2
+1035042,Sheffield Utd,Ball Possession,32%
+1035042,Sheffield Utd,Yellow Cards,3
+1035042,Sheffield Utd,Red Cards,
+1035042,Sheffield Utd,Goalkeeper Saves,7
+1035042,Sheffield Utd,Total passes,262
+1035042,Sheffield Utd,Passes accurate,162
+1035042,Sheffield Utd,Passes %,62%
+1035042,Sheffield Utd,expected_goals,0.51
+1035042,Crystal Palace,Shots on Goal,8
+1035042,Crystal Palace,Shots off Goal,8
+1035042,Crystal Palace,Total Shots,24
+1035042,Crystal Palace,Blocked Shots,8
+1035042,Crystal Palace,Shots insidebox,17
+1035042,Crystal Palace,Shots outsidebox,7
+1035042,Crystal Palace,Fouls,11
+1035042,Crystal Palace,Corner Kicks,5
+1035042,Crystal Palace,Offsides,2
+1035042,Crystal Palace,Ball Possession,68%
+1035042,Crystal Palace,Yellow Cards,0
+1035042,Crystal Palace,Red Cards,
+1035042,Crystal Palace,Goalkeeper Saves,1
+1035042,Crystal Palace,Total passes,562
+1035042,Crystal Palace,Passes accurate,466
+1035042,Crystal Palace,Passes %,83%
+1035042,Crystal Palace,expected_goals,1.89
+1035043,Newcastle,Shots on Goal,13
+1035043,Newcastle,Shots off Goal,2
+1035043,Newcastle,Total Shots,17
+1035043,Newcastle,Blocked Shots,2
+1035043,Newcastle,Shots insidebox,14
+1035043,Newcastle,Shots outsidebox,3
+1035043,Newcastle,Fouls,12
+1035043,Newcastle,Corner Kicks,6
+1035043,Newcastle,Offsides,2
+1035043,Newcastle,Ball Possession,53%
+1035043,Newcastle,Yellow Cards,4
+1035043,Newcastle,Red Cards,
+1035043,Newcastle,Goalkeeper Saves,5
+1035043,Newcastle,Total passes,502
+1035043,Newcastle,Passes accurate,428
+1035043,Newcastle,Passes %,85%
+1035043,Newcastle,expected_goals,3.41
+1035043,Aston Villa,Shots on Goal,6
+1035043,Aston Villa,Shots off Goal,7
+1035043,Aston Villa,Total Shots,16
+1035043,Aston Villa,Blocked Shots,3
+1035043,Aston Villa,Shots insidebox,12
+1035043,Aston Villa,Shots outsidebox,4
+1035043,Aston Villa,Fouls,17
+1035043,Aston Villa,Corner Kicks,5
+1035043,Aston Villa,Offsides,0
+1035043,Aston Villa,Ball Possession,47%
+1035043,Aston Villa,Yellow Cards,4
+1035043,Aston Villa,Red Cards,
+1035043,Aston Villa,Goalkeeper Saves,7
+1035043,Aston Villa,Total passes,447
+1035043,Aston Villa,Passes accurate,382
+1035043,Aston Villa,Passes %,85%
+1035043,Aston Villa,expected_goals,1.77
+1035044,Brentford,Shots on Goal,6
+1035044,Brentford,Shots off Goal,2
+1035044,Brentford,Total Shots,11
+1035044,Brentford,Blocked Shots,3
+1035044,Brentford,Shots insidebox,9
+1035044,Brentford,Shots outsidebox,2
+1035044,Brentford,Fouls,12
+1035044,Brentford,Corner Kicks,3
+1035044,Brentford,Offsides,1
+1035044,Brentford,Ball Possession,30%
+1035044,Brentford,Yellow Cards,1
+1035044,Brentford,Red Cards,
+1035044,Brentford,Goalkeeper Saves,4
+1035044,Brentford,Total passes,306
+1035044,Brentford,Passes accurate,235
+1035044,Brentford,Passes %,77%
+1035044,Brentford,expected_goals,2.22
+1035044,Tottenham,Shots on Goal,6
+1035044,Tottenham,Shots off Goal,6
+1035044,Tottenham,Total Shots,18
+1035044,Tottenham,Blocked Shots,6
+1035044,Tottenham,Shots insidebox,12
+1035044,Tottenham,Shots outsidebox,6
+1035044,Tottenham,Fouls,13
+1035044,Tottenham,Corner Kicks,6
+1035044,Tottenham,Offsides,0
+1035044,Tottenham,Ball Possession,70%
+1035044,Tottenham,Yellow Cards,4
+1035044,Tottenham,Red Cards,
+1035044,Tottenham,Goalkeeper Saves,4
+1035044,Tottenham,Total passes,711
+1035044,Tottenham,Passes accurate,638
+1035044,Tottenham,Passes %,90%
+1035044,Tottenham,expected_goals,1.27
+1035045,Chelsea,Shots on Goal,4
+1035045,Chelsea,Shots off Goal,4
+1035045,Chelsea,Total Shots,10
+1035045,Chelsea,Blocked Shots,2
+1035045,Chelsea,Shots insidebox,9
+1035045,Chelsea,Shots outsidebox,1
+1035045,Chelsea,Fouls,5
+1035045,Chelsea,Corner Kicks,4
+1035045,Chelsea,Offsides,3
+1035045,Chelsea,Ball Possession,65%
+1035045,Chelsea,Yellow Cards,3
+1035045,Chelsea,Red Cards,
+1035045,Chelsea,Goalkeeper Saves,0
+1035045,Chelsea,Total passes,698
+1035045,Chelsea,Passes accurate,610
+1035045,Chelsea,Passes %,87%
+1035045,Chelsea,expected_goals,1.35
+1035045,Liverpool,Shots on Goal,1
+1035045,Liverpool,Shots off Goal,7
+1035045,Liverpool,Total Shots,13
+1035045,Liverpool,Blocked Shots,5
+1035045,Liverpool,Shots insidebox,8
+1035045,Liverpool,Shots outsidebox,5
+1035045,Liverpool,Fouls,13
+1035045,Liverpool,Corner Kicks,4
+1035045,Liverpool,Offsides,5
+1035045,Liverpool,Ball Possession,35%
+1035045,Liverpool,Yellow Cards,3
+1035045,Liverpool,Red Cards,
+1035045,Liverpool,Goalkeeper Saves,4
+1035045,Liverpool,Total passes,377
+1035045,Liverpool,Passes accurate,301
+1035045,Liverpool,Passes %,80%
+1035045,Liverpool,expected_goals,1.28
+1035052,Manchester City,Shots on Goal,4
+1035052,Manchester City,Shots off Goal,3
+1035052,Manchester City,Total Shots,14
+1035052,Manchester City,Blocked Shots,7
+1035052,Manchester City,Shots insidebox,10
+1035052,Manchester City,Shots outsidebox,4
+1035052,Manchester City,Fouls,12
+1035052,Manchester City,Corner Kicks,3
+1035052,Manchester City,Offsides,1
+1035052,Manchester City,Ball Possession,60%
+1035052,Manchester City,Yellow Cards,1
+1035052,Manchester City,Red Cards,
+1035052,Manchester City,Goalkeeper Saves,1
+1035052,Manchester City,Total passes,679
+1035052,Manchester City,Passes accurate,608
+1035052,Manchester City,Passes %,90%
+1035052,Manchester City,expected_goals,1.08
+1035052,Newcastle,Shots on Goal,1
+1035052,Newcastle,Shots off Goal,2
+1035052,Newcastle,Total Shots,7
+1035052,Newcastle,Blocked Shots,4
+1035052,Newcastle,Shots insidebox,4
+1035052,Newcastle,Shots outsidebox,3
+1035052,Newcastle,Fouls,11
+1035052,Newcastle,Corner Kicks,0
+1035052,Newcastle,Offsides,4
+1035052,Newcastle,Ball Possession,40%
+1035052,Newcastle,Yellow Cards,5
+1035052,Newcastle,Red Cards,
+1035052,Newcastle,Goalkeeper Saves,3
+1035052,Newcastle,Total passes,452
+1035052,Newcastle,Passes accurate,387
+1035052,Newcastle,Passes %,86%
+1035052,Newcastle,expected_goals,0.29
+1035047,Aston Villa,Shots on Goal,7
+1035047,Aston Villa,Shots off Goal,4
+1035047,Aston Villa,Total Shots,13
+1035047,Aston Villa,Blocked Shots,2
+1035047,Aston Villa,Shots insidebox,9
+1035047,Aston Villa,Shots outsidebox,4
+1035047,Aston Villa,Fouls,8
+1035047,Aston Villa,Corner Kicks,7
+1035047,Aston Villa,Offsides,1
+1035047,Aston Villa,Ball Possession,60%
+1035047,Aston Villa,Yellow Cards,3
+1035047,Aston Villa,Red Cards,
+1035047,Aston Villa,Goalkeeper Saves,2
+1035047,Aston Villa,Total passes,566
+1035047,Aston Villa,Passes accurate,507
+1035047,Aston Villa,Passes %,90%
+1035047,Aston Villa,expected_goals,3.00
+1035047,Everton,Shots on Goal,2
+1035047,Everton,Shots off Goal,3
+1035047,Everton,Total Shots,9
+1035047,Everton,Blocked Shots,4
+1035047,Everton,Shots insidebox,6
+1035047,Everton,Shots outsidebox,3
+1035047,Everton,Fouls,12
+1035047,Everton,Corner Kicks,6
+1035047,Everton,Offsides,1
+1035047,Everton,Ball Possession,40%
+1035047,Everton,Yellow Cards,4
+1035047,Everton,Red Cards,
+1035047,Everton,Goalkeeper Saves,3
+1035047,Everton,Total passes,361
+1035047,Everton,Passes accurate,294
+1035047,Everton,Passes %,81%
+1035047,Everton,expected_goals,0.63
+1035055,West Ham,Shots on Goal,6
+1035055,West Ham,Shots off Goal,3
+1035055,West Ham,Total Shots,12
+1035055,West Ham,Blocked Shots,3
+1035055,West Ham,Shots insidebox,7
+1035055,West Ham,Shots outsidebox,5
+1035055,West Ham,Fouls,12
+1035055,West Ham,Corner Kicks,3
+1035055,West Ham,Offsides,3
+1035055,West Ham,Ball Possession,24%
+1035055,West Ham,Yellow Cards,4
+1035055,West Ham,Red Cards,1
+1035055,West Ham,Goalkeeper Saves,3
+1035055,West Ham,Total passes,227
+1035055,West Ham,Passes accurate,157
+1035055,West Ham,Passes %,69%
+1035055,West Ham,expected_goals,1.80
+1035055,Chelsea,Shots on Goal,4
+1035055,Chelsea,Shots off Goal,9
+1035055,Chelsea,Total Shots,17
+1035055,Chelsea,Blocked Shots,4
+1035055,Chelsea,Shots insidebox,11
+1035055,Chelsea,Shots outsidebox,6
+1035055,Chelsea,Fouls,9
+1035055,Chelsea,Corner Kicks,9
+1035055,Chelsea,Offsides,2
+1035055,Chelsea,Ball Possession,76%
+1035055,Chelsea,Yellow Cards,3
+1035055,Chelsea,Red Cards,0
+1035055,Chelsea,Goalkeeper Saves,3
+1035055,Chelsea,Total passes,716
+1035055,Chelsea,Passes accurate,630
+1035055,Chelsea,Passes %,88%
+1035055,Chelsea,expected_goals,2.49
+1035048,Crystal Palace,Shots on Goal,2
+1035048,Crystal Palace,Shots off Goal,5
+1035048,Crystal Palace,Total Shots,14
+1035048,Crystal Palace,Blocked Shots,7
+1035048,Crystal Palace,Shots insidebox,10
+1035048,Crystal Palace,Shots outsidebox,4
+1035048,Crystal Palace,Fouls,14
+1035048,Crystal Palace,Corner Kicks,1
+1035048,Crystal Palace,Offsides,0
+1035048,Crystal Palace,Ball Possession,47%
+1035048,Crystal Palace,Yellow Cards,2
+1035048,Crystal Palace,Red Cards,0
+1035048,Crystal Palace,Goalkeeper Saves,2
+1035048,Crystal Palace,Total passes,428
+1035048,Crystal Palace,Passes accurate,370
+1035048,Crystal Palace,Passes %,86%
+1035048,Crystal Palace,expected_goals,1.01
+1035048,Arsenal,Shots on Goal,3
+1035048,Arsenal,Shots off Goal,7
+1035048,Arsenal,Total Shots,14
+1035048,Arsenal,Blocked Shots,4
+1035048,Arsenal,Shots insidebox,11
+1035048,Arsenal,Shots outsidebox,3
+1035048,Arsenal,Fouls,10
+1035048,Arsenal,Corner Kicks,8
+1035048,Arsenal,Offsides,2
+1035048,Arsenal,Ball Possession,53%
+1035048,Arsenal,Yellow Cards,3
+1035048,Arsenal,Red Cards,1
+1035048,Arsenal,Goalkeeper Saves,2
+1035048,Arsenal,Total passes,489
+1035048,Arsenal,Passes accurate,422
+1035048,Arsenal,Passes %,86%
+1035048,Arsenal,expected_goals,2.02
+1035062,Chelsea,Shots on Goal,8
+1035062,Chelsea,Shots off Goal,6
+1035062,Chelsea,Total Shots,19
+1035062,Chelsea,Blocked Shots,5
+1035062,Chelsea,Shots insidebox,16
+1035062,Chelsea,Shots outsidebox,3
+1035062,Chelsea,Fouls,15
+1035062,Chelsea,Corner Kicks,6
+1035062,Chelsea,Offsides,
+1035062,Chelsea,Ball Possession,67%
+1035062,Chelsea,Yellow Cards,2
+1035062,Chelsea,Red Cards,
+1035062,Chelsea,Goalkeeper Saves,1
+1035062,Chelsea,Total passes,653
+1035062,Chelsea,Passes accurate,603
+1035062,Chelsea,Passes %,92%
+1035062,Chelsea,expected_goals,2.27
+1035062,Luton,Shots on Goal,1
+1035062,Luton,Shots off Goal,5
+1035062,Luton,Total Shots,11
+1035062,Luton,Blocked Shots,5
+1035062,Luton,Shots insidebox,7
+1035062,Luton,Shots outsidebox,4
+1035062,Luton,Fouls,12
+1035062,Luton,Corner Kicks,4
+1035062,Luton,Offsides,
+1035062,Luton,Ball Possession,33%
+1035062,Luton,Yellow Cards,3
+1035062,Luton,Red Cards,
+1035062,Luton,Goalkeeper Saves,5
+1035062,Luton,Total passes,306
+1035062,Luton,Passes accurate,240
+1035062,Luton,Passes %,78%
+1035062,Luton,expected_goals,0.44
+1035057,Bournemouth,Shots on Goal,3
+1035057,Bournemouth,Shots off Goal,5
+1035057,Bournemouth,Total Shots,11
+1035057,Bournemouth,Blocked Shots,3
+1035057,Bournemouth,Shots insidebox,6
+1035057,Bournemouth,Shots outsidebox,5
+1035057,Bournemouth,Fouls,18
+1035057,Bournemouth,Corner Kicks,6
+1035057,Bournemouth,Offsides,3
+1035057,Bournemouth,Ball Possession,43%
+1035057,Bournemouth,Yellow Cards,1
+1035057,Bournemouth,Red Cards,
+1035057,Bournemouth,Goalkeeper Saves,4
+1035057,Bournemouth,Total passes,391
+1035057,Bournemouth,Passes accurate,312
+1035057,Bournemouth,Passes %,80%
+1035057,Bournemouth,expected_goals,0.67
+1035057,Tottenham,Shots on Goal,6
+1035057,Tottenham,Shots off Goal,7
+1035057,Tottenham,Total Shots,17
+1035057,Tottenham,Blocked Shots,4
+1035057,Tottenham,Shots insidebox,12
+1035057,Tottenham,Shots outsidebox,5
+1035057,Tottenham,Fouls,11
+1035057,Tottenham,Corner Kicks,2
+1035057,Tottenham,Offsides,0
+1035057,Tottenham,Ball Possession,57%
+1035057,Tottenham,Yellow Cards,3
+1035057,Tottenham,Red Cards,
+1035057,Tottenham,Goalkeeper Saves,3
+1035057,Tottenham,Total passes,537
+1035057,Tottenham,Passes accurate,477
+1035057,Tottenham,Passes %,89%
+1035057,Tottenham,expected_goals,2.06
+1035064,Manchester United,Shots on Goal,9
+1035064,Manchester United,Shots off Goal,5
+1035064,Manchester United,Total Shots,18
+1035064,Manchester United,Blocked Shots,4
+1035064,Manchester United,Shots insidebox,7
+1035064,Manchester United,Shots outsidebox,11
+1035064,Manchester United,Fouls,13
+1035064,Manchester United,Corner Kicks,11
+1035064,Manchester United,Offsides,3
+1035064,Manchester United,Ball Possession,66%
+1035064,Manchester United,Yellow Cards,4
+1035064,Manchester United,Red Cards,0
+1035064,Manchester United,Goalkeeper Saves,2
+1035064,Manchester United,Total passes,637
+1035064,Manchester United,Passes accurate,548
+1035064,Manchester United,Passes %,86%
+1035064,Manchester United,expected_goals,2.83
+1035064,Nottingham Forest,Shots on Goal,4
+1035064,Nottingham Forest,Shots off Goal,3
+1035064,Nottingham Forest,Total Shots,9
+1035064,Nottingham Forest,Blocked Shots,2
+1035064,Nottingham Forest,Shots insidebox,7
+1035064,Nottingham Forest,Shots outsidebox,2
+1035064,Nottingham Forest,Fouls,11
+1035064,Nottingham Forest,Corner Kicks,3
+1035064,Nottingham Forest,Offsides,2
+1035064,Nottingham Forest,Ball Possession,34%
+1035064,Nottingham Forest,Yellow Cards,4
+1035064,Nottingham Forest,Red Cards,1
+1035064,Nottingham Forest,Goalkeeper Saves,7
+1035064,Nottingham Forest,Total passes,316
+1035064,Nottingham Forest,Passes accurate,228
+1035064,Nottingham Forest,Passes %,72%
+1035064,Nottingham Forest,expected_goals,1.21
+1035058,Arsenal,Shots on Goal,11
+1035058,Arsenal,Shots off Goal,5
+1035058,Arsenal,Total Shots,19
+1035058,Arsenal,Blocked Shots,3
+1035058,Arsenal,Shots insidebox,16
+1035058,Arsenal,Shots outsidebox,3
+1035058,Arsenal,Fouls,6
+1035058,Arsenal,Corner Kicks,8
+1035058,Arsenal,Offsides,4
+1035058,Arsenal,Ball Possession,71%
+1035058,Arsenal,Yellow Cards,0
+1035058,Arsenal,Red Cards,0
+1035058,Arsenal,Goalkeeper Saves,1
+1035058,Arsenal,Total passes,680
+1035058,Arsenal,Passes accurate,614
+1035058,Arsenal,Passes %,90%
+1035058,Arsenal,expected_goals,3.20
+1035058,Fulham,Shots on Goal,3
+1035058,Fulham,Shots off Goal,3
+1035058,Fulham,Total Shots,8
+1035058,Fulham,Blocked Shots,2
+1035058,Fulham,Shots insidebox,6
+1035058,Fulham,Shots outsidebox,2
+1035058,Fulham,Fouls,5
+1035058,Fulham,Corner Kicks,3
+1035058,Fulham,Offsides,1
+1035058,Fulham,Ball Possession,29%
+1035058,Fulham,Yellow Cards,6
+1035058,Fulham,Red Cards,1
+1035058,Fulham,Goalkeeper Saves,8
+1035058,Fulham,Total passes,274
+1035058,Fulham,Passes accurate,196
+1035058,Fulham,Passes %,72%
+1035058,Fulham,expected_goals,0.56
+1035063,Everton,Shots on Goal,7
+1035063,Everton,Shots off Goal,6
+1035063,Everton,Total Shots,15
+1035063,Everton,Blocked Shots,2
+1035063,Everton,Shots insidebox,11
+1035063,Everton,Shots outsidebox,4
+1035063,Everton,Fouls,10
+1035063,Everton,Corner Kicks,7
+1035063,Everton,Offsides,1
+1035063,Everton,Ball Possession,47%
+1035063,Everton,Yellow Cards,3
+1035063,Everton,Red Cards,
+1035063,Everton,Goalkeeper Saves,2
+1035063,Everton,Total passes,406
+1035063,Everton,Passes accurate,333
+1035063,Everton,Passes %,82%
+1035063,Everton,expected_goals,1.34
+1035063,Wolves,Shots on Goal,2
+1035063,Wolves,Shots off Goal,5
+1035063,Wolves,Total Shots,11
+1035063,Wolves,Blocked Shots,4
+1035063,Wolves,Shots insidebox,7
+1035063,Wolves,Shots outsidebox,4
+1035063,Wolves,Fouls,14
+1035063,Wolves,Corner Kicks,0
+1035063,Wolves,Offsides,1
+1035063,Wolves,Ball Possession,53%
+1035063,Wolves,Yellow Cards,4
+1035063,Wolves,Red Cards,
+1035063,Wolves,Goalkeeper Saves,7
+1035063,Wolves,Total passes,472
+1035063,Wolves,Passes accurate,396
+1035063,Wolves,Passes %,84%
+1035063,Wolves,expected_goals,1.08
+1035059,Brentford,Shots on Goal,1
+1035059,Brentford,Shots off Goal,4
+1035059,Brentford,Total Shots,12
+1035059,Brentford,Blocked Shots,7
+1035059,Brentford,Shots insidebox,10
+1035059,Brentford,Shots outsidebox,2
+1035059,Brentford,Fouls,9
+1035059,Brentford,Corner Kicks,8
+1035059,Brentford,Offsides,2
+1035059,Brentford,Ball Possession,60%
+1035059,Brentford,Yellow Cards,
+1035059,Brentford,Red Cards,
+1035059,Brentford,Goalkeeper Saves,4
+1035059,Brentford,Total passes,518
+1035059,Brentford,Passes accurate,439
+1035059,Brentford,Passes %,85%
+1035059,Brentford,expected_goals,0.97
+1035059,Crystal Palace,Shots on Goal,5
+1035059,Crystal Palace,Shots off Goal,4
+1035059,Crystal Palace,Total Shots,15
+1035059,Crystal Palace,Blocked Shots,6
+1035059,Crystal Palace,Shots insidebox,10
+1035059,Crystal Palace,Shots outsidebox,5
+1035059,Crystal Palace,Fouls,15
+1035059,Crystal Palace,Corner Kicks,6
+1035059,Crystal Palace,Offsides,2
+1035059,Crystal Palace,Ball Possession,40%
+1035059,Crystal Palace,Yellow Cards,
+1035059,Crystal Palace,Red Cards,
+1035059,Crystal Palace,Goalkeeper Saves,0
+1035059,Crystal Palace,Total passes,348
+1035059,Crystal Palace,Passes accurate,283
+1035059,Crystal Palace,Passes %,81%
+1035059,Crystal Palace,expected_goals,0.80
+1035102,Newcastle,Shots on Goal,8
+1035102,Newcastle,Shots off Goal,6
+1035102,Newcastle,Total Shots,20
+1035102,Newcastle,Blocked Shots,6
+1035102,Newcastle,Shots insidebox,14
+1035102,Newcastle,Shots outsidebox,6
+1035102,Newcastle,Fouls,7
+1035102,Newcastle,Corner Kicks,5
+1035102,Newcastle,Offsides,1
+1035102,Newcastle,Ball Possession,53%
+1035102,Newcastle,Yellow Cards,1
+1035102,Newcastle,Red Cards,
+1035102,Newcastle,Goalkeeper Saves,2
+1035102,Newcastle,Total passes,510
+1035102,Newcastle,Passes accurate,414
+1035102,Newcastle,Passes %,81%
+1035102,Newcastle,expected_goals,3.19
+1035102,Burnley,Shots on Goal,2
+1035102,Burnley,Shots off Goal,1
+1035102,Burnley,Total Shots,8
+1035102,Burnley,Blocked Shots,5
+1035102,Burnley,Shots insidebox,6
+1035102,Burnley,Shots outsidebox,2
+1035102,Burnley,Fouls,15
+1035102,Burnley,Corner Kicks,3
+1035102,Burnley,Offsides,3
+1035102,Burnley,Ball Possession,47%
+1035102,Burnley,Yellow Cards,3
+1035102,Burnley,Red Cards,
+1035102,Burnley,Goalkeeper Saves,6
+1035102,Burnley,Total passes,463
+1035102,Burnley,Passes accurate,364
+1035102,Burnley,Passes %,79%
+1035102,Burnley,expected_goals,0.65
+1035097,Bournemouth,Shots on Goal,1
+1035097,Bournemouth,Shots off Goal,3
+1035097,Bournemouth,Total Shots,8
+1035097,Bournemouth,Blocked Shots,4
+1035097,Bournemouth,Shots insidebox,7
+1035097,Bournemouth,Shots outsidebox,1
+1035097,Bournemouth,Fouls,11
+1035097,Bournemouth,Corner Kicks,6
+1035097,Bournemouth,Offsides,2
+1035097,Bournemouth,Ball Possession,42%
+1035097,Bournemouth,Yellow Cards,0
+1035097,Bournemouth,Red Cards,
+1035097,Bournemouth,Goalkeeper Saves,4
+1035097,Bournemouth,Total passes,389
+1035097,Bournemouth,Passes accurate,317
+1035097,Bournemouth,Passes %,81%
+1035097,Bournemouth,expected_goals,0.65
+1035097,Arsenal,Shots on Goal,8
+1035097,Arsenal,Shots off Goal,3
+1035097,Arsenal,Total Shots,15
+1035097,Arsenal,Blocked Shots,4
+1035097,Arsenal,Shots insidebox,14
+1035097,Arsenal,Shots outsidebox,1
+1035097,Arsenal,Fouls,10
+1035097,Arsenal,Corner Kicks,6
+1035097,Arsenal,Offsides,0
+1035097,Arsenal,Ball Possession,58%
+1035097,Arsenal,Yellow Cards,1
+1035097,Arsenal,Red Cards,
+1035097,Arsenal,Goalkeeper Saves,1
+1035097,Arsenal,Total passes,545
+1035097,Arsenal,Passes accurate,481
+1035097,Arsenal,Passes %,88%
+1035097,Arsenal,expected_goals,3.43
+1035106,Wolves,Shots on Goal,1
+1035106,Wolves,Shots off Goal,0
+1035106,Wolves,Total Shots,3
+1035106,Wolves,Blocked Shots,2
+1035106,Wolves,Shots insidebox,3
+1035106,Wolves,Shots outsidebox,0
+1035106,Wolves,Fouls,18
+1035106,Wolves,Corner Kicks,0
+1035106,Wolves,Offsides,2
+1035106,Wolves,Ball Possession,32%
+1035106,Wolves,Yellow Cards,5
+1035106,Wolves,Red Cards,
+1035106,Wolves,Goalkeeper Saves,7
+1035106,Wolves,Total passes,282
+1035106,Wolves,Passes accurate,215
+1035106,Wolves,Passes %,76%
+1035106,Wolves,expected_goals,0.47
+1035106,Manchester City,Shots on Goal,8
+1035106,Manchester City,Shots off Goal,5
+1035106,Manchester City,Total Shots,23
+1035106,Manchester City,Blocked Shots,10
+1035106,Manchester City,Shots insidebox,12
+1035106,Manchester City,Shots outsidebox,11
+1035106,Manchester City,Fouls,12
+1035106,Manchester City,Corner Kicks,6
+1035106,Manchester City,Offsides,0
+1035106,Manchester City,Ball Possession,68%
+1035106,Manchester City,Yellow Cards,4
+1035106,Manchester City,Red Cards,
+1035106,Manchester City,Goalkeeper Saves,0
+1035106,Manchester City,Total passes,597
+1035106,Manchester City,Passes accurate,526
+1035106,Manchester City,Passes %,88%
+1035106,Manchester City,expected_goals,0.87
+1035099,Everton,Shots on Goal,5
+1035099,Everton,Shots off Goal,14
+1035099,Everton,Total Shots,23
+1035099,Everton,Blocked Shots,4
+1035099,Everton,Shots insidebox,16
+1035099,Everton,Shots outsidebox,7
+1035099,Everton,Fouls,8
+1035099,Everton,Corner Kicks,3
+1035099,Everton,Offsides,2
+1035099,Everton,Ball Possession,68%
+1035099,Everton,Yellow Cards,0
+1035099,Everton,Red Cards,
+1035099,Everton,Goalkeeper Saves,0
+1035099,Everton,Total passes,576
+1035099,Everton,Passes accurate,459
+1035099,Everton,Passes %,80%
+1035099,Everton,expected_goals,2.90
+1035099,Luton,Shots on Goal,2
+1035099,Luton,Shots off Goal,4
+1035099,Luton,Total Shots,9
+1035099,Luton,Blocked Shots,3
+1035099,Luton,Shots insidebox,8
+1035099,Luton,Shots outsidebox,1
+1035099,Luton,Fouls,10
+1035099,Luton,Corner Kicks,6
+1035099,Luton,Offsides,3
+1035099,Luton,Ball Possession,32%
+1035099,Luton,Yellow Cards,1
+1035099,Luton,Red Cards,
+1035099,Luton,Goalkeeper Saves,3
+1035099,Luton,Total passes,275
+1035099,Luton,Passes accurate,146
+1035099,Luton,Passes %,53%
+1035099,Luton,expected_goals,0.89
+1035105,West Ham,Shots on Goal,9
+1035105,West Ham,Shots off Goal,8
+1035105,West Ham,Total Shots,20
+1035105,West Ham,Blocked Shots,3
+1035105,West Ham,Shots insidebox,17
+1035105,West Ham,Shots outsidebox,3
+1035105,West Ham,Fouls,6
+1035105,West Ham,Corner Kicks,7
+1035105,West Ham,Offsides,2
+1035105,West Ham,Ball Possession,52%
+1035105,West Ham,Yellow Cards,1
+1035105,West Ham,Red Cards,
+1035105,West Ham,Goalkeeper Saves,2
+1035105,West Ham,Total passes,494
+1035105,West Ham,Passes accurate,424
+1035105,West Ham,Passes %,86%
+1035105,West Ham,expected_goals,2.14
+1035105,Sheffield Utd,Shots on Goal,2
+1035105,Sheffield Utd,Shots off Goal,6
+1035105,Sheffield Utd,Total Shots,16
+1035105,Sheffield Utd,Blocked Shots,8
+1035105,Sheffield Utd,Shots insidebox,11
+1035105,Sheffield Utd,Shots outsidebox,5
+1035105,Sheffield Utd,Fouls,9
+1035105,Sheffield Utd,Corner Kicks,4
+1035105,Sheffield Utd,Offsides,3
+1035105,Sheffield Utd,Ball Possession,48%
+1035105,Sheffield Utd,Yellow Cards,1
+1035105,Sheffield Utd,Red Cards,
+1035105,Sheffield Utd,Goalkeeper Saves,6
+1035105,Sheffield Utd,Total passes,441
+1035105,Sheffield Utd,Passes accurate,364
+1035105,Sheffield Utd,Passes %,83%
+1035105,Sheffield Utd,expected_goals,1.07
+1035104,Tottenham,Shots on Goal,8
+1035104,Tottenham,Shots off Goal,4
+1035104,Tottenham,Total Shots,24
+1035104,Tottenham,Blocked Shots,12
+1035104,Tottenham,Shots insidebox,10
+1035104,Tottenham,Shots outsidebox,14
+1035104,Tottenham,Fouls,11
+1035104,Tottenham,Corner Kicks,11
+1035104,Tottenham,Offsides,4
+1035104,Tottenham,Ball Possession,65%
+1035104,Tottenham,Yellow Cards,5
+1035104,Tottenham,Red Cards,0
+1035104,Tottenham,Goalkeeper Saves,3
+1035104,Tottenham,Total passes,662
+1035104,Tottenham,Passes accurate,603
+1035104,Tottenham,Passes %,91%
+1035104,Tottenham,expected_goals,2.23
+1035104,Liverpool,Shots on Goal,4
+1035104,Liverpool,Shots off Goal,5
+1035104,Liverpool,Total Shots,12
+1035104,Liverpool,Blocked Shots,3
+1035104,Liverpool,Shots insidebox,9
+1035104,Liverpool,Shots outsidebox,3
+1035104,Liverpool,Fouls,17
+1035104,Liverpool,Corner Kicks,5
+1035104,Liverpool,Offsides,1
+1035104,Liverpool,Ball Possession,35%
+1035104,Liverpool,Yellow Cards,6
+1035104,Liverpool,Red Cards,2
+1035104,Liverpool,Goalkeeper Saves,8
+1035104,Liverpool,Total passes,364
+1035104,Liverpool,Passes accurate,281
+1035104,Liverpool,Passes %,77%
+1035104,Liverpool,expected_goals,1.31
+1035103,Nottingham Forest,Shots on Goal,1
+1035103,Nottingham Forest,Shots off Goal,4
+1035103,Nottingham Forest,Total Shots,6
+1035103,Nottingham Forest,Blocked Shots,1
+1035103,Nottingham Forest,Shots insidebox,5
+1035103,Nottingham Forest,Shots outsidebox,1
+1035103,Nottingham Forest,Fouls,6
+1035103,Nottingham Forest,Corner Kicks,1
+1035103,Nottingham Forest,Offsides,2
+1035103,Nottingham Forest,Ball Possession,41%
+1035103,Nottingham Forest,Yellow Cards,3
+1035103,Nottingham Forest,Red Cards,1
+1035103,Nottingham Forest,Goalkeeper Saves,3
+1035103,Nottingham Forest,Total passes,407
+1035103,Nottingham Forest,Passes accurate,320
+1035103,Nottingham Forest,Passes %,79%
+1035103,Nottingham Forest,expected_goals,0.46
+1035103,Brentford,Shots on Goal,5
+1035103,Brentford,Shots off Goal,6
+1035103,Brentford,Total Shots,18
+1035103,Brentford,Blocked Shots,7
+1035103,Brentford,Shots insidebox,15
+1035103,Brentford,Shots outsidebox,3
+1035103,Brentford,Fouls,10
+1035103,Brentford,Corner Kicks,11
+1035103,Brentford,Offsides,1
+1035103,Brentford,Ball Possession,59%
+1035103,Brentford,Yellow Cards,2
+1035103,Brentford,Red Cards,0
+1035103,Brentford,Goalkeeper Saves,0
+1035103,Brentford,Total passes,578
+1035103,Brentford,Passes accurate,491
+1035103,Brentford,Passes %,85%
+1035103,Brentford,expected_goals,1.66
+1035100,Fulham,Shots on Goal,3
+1035100,Fulham,Shots off Goal,4
+1035100,Fulham,Total Shots,10
+1035100,Fulham,Blocked Shots,3
+1035100,Fulham,Shots insidebox,9
+1035100,Fulham,Shots outsidebox,1
+1035100,Fulham,Fouls,15
+1035100,Fulham,Corner Kicks,8
+1035100,Fulham,Offsides,2
+1035100,Fulham,Ball Possession,56%
+1035100,Fulham,Yellow Cards,1
+1035100,Fulham,Red Cards,
+1035100,Fulham,Goalkeeper Saves,2
+1035100,Fulham,Total passes,561
+1035100,Fulham,Passes accurate,493
+1035100,Fulham,Passes %,88%
+1035100,Fulham,expected_goals,1.09
+1035100,Chelsea,Shots on Goal,4
+1035100,Chelsea,Shots off Goal,6
+1035100,Chelsea,Total Shots,11
+1035100,Chelsea,Blocked Shots,1
+1035100,Chelsea,Shots insidebox,8
+1035100,Chelsea,Shots outsidebox,3
+1035100,Chelsea,Fouls,12
+1035100,Chelsea,Corner Kicks,1
+1035100,Chelsea,Offsides,4
+1035100,Chelsea,Ball Possession,44%
+1035100,Chelsea,Yellow Cards,4
+1035100,Chelsea,Red Cards,
+1035100,Chelsea,Goalkeeper Saves,3
+1035100,Chelsea,Total passes,462
+1035100,Chelsea,Passes accurate,395
+1035100,Chelsea,Passes %,85%
+1035100,Chelsea,expected_goals,1.70
+1035051,Luton,Shots on Goal,3
+1035051,Luton,Shots off Goal,10
+1035051,Luton,Total Shots,18
+1035051,Luton,Blocked Shots,5
+1035051,Luton,Shots insidebox,15
+1035051,Luton,Shots outsidebox,3
+1035051,Luton,Fouls,14
+1035051,Luton,Corner Kicks,7
+1035051,Luton,Offsides,3
+1035051,Luton,Ball Possession,49%
+1035051,Luton,Yellow Cards,4
+1035051,Luton,Red Cards,
+1035051,Luton,Goalkeeper Saves,2
+1035051,Luton,Total passes,370
+1035051,Luton,Passes accurate,254
+1035051,Luton,Passes %,69%
+1035051,Luton,expected_goals,1.34
+1035051,Burnley,Shots on Goal,4
+1035051,Burnley,Shots off Goal,8
+1035051,Burnley,Total Shots,14
+1035051,Burnley,Blocked Shots,2
+1035051,Burnley,Shots insidebox,7
+1035051,Burnley,Shots outsidebox,7
+1035051,Burnley,Fouls,6
+1035051,Burnley,Corner Kicks,6
+1035051,Burnley,Offsides,3
+1035051,Burnley,Ball Possession,51%
+1035051,Burnley,Yellow Cards,2
+1035051,Burnley,Red Cards,
+1035051,Burnley,Goalkeeper Saves,1
+1035051,Burnley,Total passes,412
+1035051,Burnley,Passes accurate,295
+1035051,Burnley,Passes %,72%
+1035051,Burnley,expected_goals,1.11
+1035113,Luton,Shots on Goal,2
+1035113,Luton,Shots off Goal,6
+1035113,Luton,Total Shots,12
+1035113,Luton,Blocked Shots,4
+1035113,Luton,Shots insidebox,8
+1035113,Luton,Shots outsidebox,4
+1035113,Luton,Fouls,16
+1035113,Luton,Corner Kicks,5
+1035113,Luton,Offsides,4
+1035113,Luton,Ball Possession,33%
+1035113,Luton,Yellow Cards,2
+1035113,Luton,Red Cards,0
+1035113,Luton,Goalkeeper Saves,3
+1035113,Luton,Total passes,252
+1035113,Luton,Passes accurate,170
+1035113,Luton,Passes %,67%
+1035113,Luton,expected_goals,0.76
+1035113,Tottenham,Shots on Goal,4
+1035113,Tottenham,Shots off Goal,9
+1035113,Tottenham,Total Shots,15
+1035113,Tottenham,Blocked Shots,2
+1035113,Tottenham,Shots insidebox,10
+1035113,Tottenham,Shots outsidebox,5
+1035113,Tottenham,Fouls,7
+1035113,Tottenham,Corner Kicks,6
+1035113,Tottenham,Offsides,4
+1035113,Tottenham,Ball Possession,67%
+1035113,Tottenham,Yellow Cards,3
+1035113,Tottenham,Red Cards,1
+1035113,Tottenham,Goalkeeper Saves,2
+1035113,Tottenham,Total passes,553
+1035113,Tottenham,Passes accurate,473
+1035113,Tottenham,Passes %,86%
+1035113,Tottenham,expected_goals,1.96
+1035143,Newcastle,Shots on Goal,2
+1035143,Newcastle,Shots off Goal,3
+1035143,Newcastle,Total Shots,9
+1035143,Newcastle,Blocked Shots,4
+1035143,Newcastle,Shots insidebox,5
+1035143,Newcastle,Shots outsidebox,4
+1035143,Newcastle,Fouls,14
+1035143,Newcastle,Corner Kicks,0
+1035143,Newcastle,Offsides,2
+1035143,Newcastle,Ball Possession,41%
+1035143,Newcastle,Yellow Cards,5
+1035143,Newcastle,Red Cards,
+1035143,Newcastle,Goalkeeper Saves,1
+1035143,Newcastle,Total passes,342
+1035143,Newcastle,Passes accurate,271
+1035143,Newcastle,Passes %,79%
+1035143,Newcastle,expected_goals,1.04
+1035143,Arsenal,Shots on Goal,1
+1035143,Arsenal,Shots off Goal,4
+1035143,Arsenal,Total Shots,14
+1035143,Arsenal,Blocked Shots,9
+1035143,Arsenal,Shots insidebox,5
+1035143,Arsenal,Shots outsidebox,9
+1035143,Arsenal,Fouls,9
+1035143,Arsenal,Corner Kicks,11
+1035143,Arsenal,Offsides,1
+1035143,Arsenal,Ball Possession,59%
+1035143,Arsenal,Yellow Cards,1
+1035143,Arsenal,Red Cards,
+1035143,Arsenal,Goalkeeper Saves,0
+1035143,Arsenal,Total passes,484
+1035143,Arsenal,Passes accurate,408
+1035143,Arsenal,Passes %,84%
+1035143,Arsenal,expected_goals,0.57
+1035144,Nottingham Forest,Shots on Goal,3
+1035144,Nottingham Forest,Shots off Goal,2
+1035144,Nottingham Forest,Total Shots,5
+1035144,Nottingham Forest,Blocked Shots,0
+1035144,Nottingham Forest,Shots insidebox,2
+1035144,Nottingham Forest,Shots outsidebox,3
+1035144,Nottingham Forest,Fouls,6
+1035144,Nottingham Forest,Corner Kicks,0
+1035144,Nottingham Forest,Offsides,9
+1035144,Nottingham Forest,Ball Possession,27%
+1035144,Nottingham Forest,Yellow Cards,1
+1035144,Nottingham Forest,Red Cards,
+1035144,Nottingham Forest,Goalkeeper Saves,3
+1035144,Nottingham Forest,Total passes,240
+1035144,Nottingham Forest,Passes accurate,172
+1035144,Nottingham Forest,Passes %,72%
+1035144,Nottingham Forest,expected_goals,0.38
+1035144,Aston Villa,Shots on Goal,3
+1035144,Aston Villa,Shots off Goal,6
+1035144,Aston Villa,Total Shots,13
+1035144,Aston Villa,Blocked Shots,4
+1035144,Aston Villa,Shots insidebox,11
+1035144,Aston Villa,Shots outsidebox,2
+1035144,Aston Villa,Fouls,9
+1035144,Aston Villa,Corner Kicks,10
+1035144,Aston Villa,Offsides,1
+1035144,Aston Villa,Ball Possession,73%
+1035144,Aston Villa,Yellow Cards,1
+1035144,Aston Villa,Red Cards,
+1035144,Aston Villa,Goalkeeper Saves,1
+1035144,Aston Villa,Total passes,654
+1035144,Aston Villa,Passes accurate,598
+1035144,Aston Villa,Passes %,91%
+1035144,Aston Villa,expected_goals,1.23
+1035141,Luton,Shots on Goal,5
+1035141,Luton,Shots off Goal,2
+1035141,Luton,Total Shots,8
+1035141,Luton,Blocked Shots,1
+1035141,Luton,Shots insidebox,5
+1035141,Luton,Shots outsidebox,3
+1035141,Luton,Fouls,7
+1035141,Luton,Corner Kicks,4
+1035141,Luton,Offsides,1
+1035141,Luton,Ball Possession,26%
+1035141,Luton,Yellow Cards,1
+1035141,Luton,Red Cards,
+1035141,Luton,Goalkeeper Saves,5
+1035141,Luton,Total passes,229
+1035141,Luton,Passes accurate,135
+1035141,Luton,Passes %,59%
+1035141,Luton,expected_goals,0.81
+1035141,Liverpool,Shots on Goal,6
+1035141,Liverpool,Shots off Goal,12
+1035141,Liverpool,Total Shots,24
+1035141,Liverpool,Blocked Shots,6
+1035141,Liverpool,Shots insidebox,15
+1035141,Liverpool,Shots outsidebox,9
+1035141,Liverpool,Fouls,13
+1035141,Liverpool,Corner Kicks,7
+1035141,Liverpool,Offsides,1
+1035141,Liverpool,Ball Possession,74%
+1035141,Liverpool,Yellow Cards,1
+1035141,Liverpool,Red Cards,
+1035141,Liverpool,Goalkeeper Saves,4
+1035141,Liverpool,Total passes,659
+1035141,Liverpool,Passes accurate,581
+1035141,Liverpool,Passes %,88%
+1035141,Liverpool,expected_goals,2.85
+1035146,Tottenham,Shots on Goal,5
+1035146,Tottenham,Shots off Goal,1
+1035146,Tottenham,Total Shots,8
+1035146,Tottenham,Blocked Shots,2
+1035146,Tottenham,Shots insidebox,5
+1035146,Tottenham,Shots outsidebox,3
+1035146,Tottenham,Fouls,12
+1035146,Tottenham,Corner Kicks,1
+1035146,Tottenham,Offsides,3
+1035146,Tottenham,Ball Possession,39%
+1035146,Tottenham,Yellow Cards,3
+1035146,Tottenham,Red Cards,2
+1035146,Tottenham,Goalkeeper Saves,3
+1035146,Tottenham,Total passes,317
+1035146,Tottenham,Passes accurate,252
+1035146,Tottenham,Passes %,79%
+1035146,Tottenham,expected_goals,0.89
+1035146,Chelsea,Shots on Goal,8
+1035146,Chelsea,Shots off Goal,7
+1035146,Chelsea,Total Shots,17
+1035146,Chelsea,Blocked Shots,2
+1035146,Chelsea,Shots insidebox,13
+1035146,Chelsea,Shots outsidebox,4
+1035146,Chelsea,Fouls,21
+1035146,Chelsea,Corner Kicks,6
+1035146,Chelsea,Offsides,7
+1035146,Chelsea,Ball Possession,61%
+1035146,Chelsea,Yellow Cards,5
+1035146,Chelsea,Red Cards,0
+1035146,Chelsea,Goalkeeper Saves,4
+1035146,Chelsea,Total passes,502
+1035146,Chelsea,Passes accurate,436
+1035146,Chelsea,Passes %,87%
+1035146,Chelsea,expected_goals,4.12
+1035156,Wolves,Shots on Goal,4
+1035156,Wolves,Shots off Goal,6
+1035156,Wolves,Total Shots,17
+1035156,Wolves,Blocked Shots,7
+1035156,Wolves,Shots insidebox,10
+1035156,Wolves,Shots outsidebox,7
+1035156,Wolves,Fouls,19
+1035156,Wolves,Corner Kicks,11
+1035156,Wolves,Offsides,4
+1035156,Wolves,Ball Possession,42%
+1035156,Wolves,Yellow Cards,4
+1035156,Wolves,Red Cards,
+1035156,Wolves,Goalkeeper Saves,1
+1035156,Wolves,Total passes,430
+1035156,Wolves,Passes accurate,364
+1035156,Wolves,Passes %,85%
+1035156,Wolves,expected_goals,2.15
+1035156,Tottenham,Shots on Goal,2
+1035156,Tottenham,Shots off Goal,2
+1035156,Tottenham,Total Shots,6
+1035156,Tottenham,Blocked Shots,2
+1035156,Tottenham,Shots insidebox,3
+1035156,Tottenham,Shots outsidebox,3
+1035156,Tottenham,Fouls,15
+1035156,Tottenham,Corner Kicks,3
+1035156,Tottenham,Offsides,1
+1035156,Tottenham,Ball Possession,58%
+1035156,Tottenham,Yellow Cards,3
+1035156,Tottenham,Red Cards,
+1035156,Tottenham,Goalkeeper Saves,2
+1035156,Tottenham,Total passes,628
+1035156,Tottenham,Passes accurate,551
+1035156,Tottenham,Passes %,88%
+1035156,Tottenham,expected_goals,0.70
+1035154,Manchester United,Shots on Goal,4
+1035154,Manchester United,Shots off Goal,8
+1035154,Manchester United,Total Shots,15
+1035154,Manchester United,Blocked Shots,3
+1035154,Manchester United,Shots insidebox,11
+1035154,Manchester United,Shots outsidebox,4
+1035154,Manchester United,Fouls,9
+1035154,Manchester United,Corner Kicks,11
+1035154,Manchester United,Offsides,1
+1035154,Manchester United,Ball Possession,65%
+1035154,Manchester United,Yellow Cards,0
+1035154,Manchester United,Red Cards,
+1035154,Manchester United,Goalkeeper Saves,4
+1035154,Manchester United,Total passes,576
+1035154,Manchester United,Passes accurate,501
+1035154,Manchester United,Passes %,87%
+1035154,Manchester United,expected_goals,2.18
+1035154,Luton,Shots on Goal,4
+1035154,Luton,Shots off Goal,2
+1035154,Luton,Total Shots,10
+1035154,Luton,Blocked Shots,4
+1035154,Luton,Shots insidebox,4
+1035154,Luton,Shots outsidebox,6
+1035154,Luton,Fouls,11
+1035154,Luton,Corner Kicks,3
+1035154,Luton,Offsides,1
+1035154,Luton,Ball Possession,35%
+1035154,Luton,Yellow Cards,2
+1035154,Luton,Red Cards,
+1035154,Luton,Goalkeeper Saves,3
+1035154,Luton,Total passes,321
+1035154,Luton,Passes accurate,254
+1035154,Luton,Passes %,79%
+1035154,Luton,expected_goals,0.41
+1035148,Arsenal,Shots on Goal,6
+1035148,Arsenal,Shots off Goal,6
+1035148,Arsenal,Total Shots,16
+1035148,Arsenal,Blocked Shots,4
+1035148,Arsenal,Shots insidebox,12
+1035148,Arsenal,Shots outsidebox,4
+1035148,Arsenal,Fouls,8
+1035148,Arsenal,Corner Kicks,13
+1035148,Arsenal,Offsides,3
+1035148,Arsenal,Ball Possession,64%
+1035148,Arsenal,Yellow Cards,0
+1035148,Arsenal,Red Cards,1
+1035148,Arsenal,Goalkeeper Saves,4
+1035148,Arsenal,Total passes,561
+1035148,Arsenal,Passes accurate,480
+1035148,Arsenal,Passes %,86%
+1035148,Arsenal,expected_goals,1.95
+1035148,Burnley,Shots on Goal,5
+1035148,Burnley,Shots off Goal,3
+1035148,Burnley,Total Shots,8
+1035148,Burnley,Blocked Shots,0
+1035148,Burnley,Shots insidebox,4
+1035148,Burnley,Shots outsidebox,4
+1035148,Burnley,Fouls,9
+1035148,Burnley,Corner Kicks,3
+1035148,Burnley,Offsides,2
+1035148,Burnley,Ball Possession,36%
+1035148,Burnley,Yellow Cards,1
+1035148,Burnley,Red Cards,0
+1035148,Burnley,Goalkeeper Saves,3
+1035148,Burnley,Total passes,334
+1035148,Burnley,Passes accurate,265
+1035148,Burnley,Passes %,79%
+1035148,Burnley,expected_goals,0.32
+1035152,Crystal Palace,Shots on Goal,4
+1035152,Crystal Palace,Shots off Goal,3
+1035152,Crystal Palace,Total Shots,13
+1035152,Crystal Palace,Blocked Shots,6
+1035152,Crystal Palace,Shots insidebox,10
+1035152,Crystal Palace,Shots outsidebox,3
+1035152,Crystal Palace,Fouls,9
+1035152,Crystal Palace,Corner Kicks,9
+1035152,Crystal Palace,Offsides,4
+1035152,Crystal Palace,Ball Possession,67%
+1035152,Crystal Palace,Yellow Cards,1
+1035152,Crystal Palace,Red Cards,
+1035152,Crystal Palace,Goalkeeper Saves,1
+1035152,Crystal Palace,Total passes,658
+1035152,Crystal Palace,Passes accurate,573
+1035152,Crystal Palace,Passes %,87%
+1035152,Crystal Palace,expected_goals,2.17
+1035152,Everton,Shots on Goal,4
+1035152,Everton,Shots off Goal,3
+1035152,Everton,Total Shots,8
+1035152,Everton,Blocked Shots,1
+1035152,Everton,Shots insidebox,5
+1035152,Everton,Shots outsidebox,3
+1035152,Everton,Fouls,18
+1035152,Everton,Corner Kicks,2
+1035152,Everton,Offsides,0
+1035152,Everton,Ball Possession,33%
+1035152,Everton,Yellow Cards,4
+1035152,Everton,Red Cards,
+1035152,Everton,Goalkeeper Saves,3
+1035152,Everton,Total passes,310
+1035152,Everton,Passes accurate,226
+1035152,Everton,Passes %,73%
+1035152,Everton,expected_goals,1.53
+1035147,Bournemouth,Shots on Goal,10
+1035147,Bournemouth,Shots off Goal,6
+1035147,Bournemouth,Total Shots,19
+1035147,Bournemouth,Blocked Shots,3
+1035147,Bournemouth,Shots insidebox,15
+1035147,Bournemouth,Shots outsidebox,4
+1035147,Bournemouth,Fouls,10
+1035147,Bournemouth,Corner Kicks,6
+1035147,Bournemouth,Offsides,0
+1035147,Bournemouth,Ball Possession,48%
+1035147,Bournemouth,Yellow Cards,2
+1035147,Bournemouth,Red Cards,
+1035147,Bournemouth,Goalkeeper Saves,5
+1035147,Bournemouth,Total passes,422
+1035147,Bournemouth,Passes accurate,331
+1035147,Bournemouth,Passes %,78%
+1035147,Bournemouth,expected_goals,2.46
+1035147,Newcastle,Shots on Goal,5
+1035147,Newcastle,Shots off Goal,3
+1035147,Newcastle,Total Shots,8
+1035147,Newcastle,Blocked Shots,0
+1035147,Newcastle,Shots insidebox,4
+1035147,Newcastle,Shots outsidebox,4
+1035147,Newcastle,Fouls,4
+1035147,Newcastle,Corner Kicks,5
+1035147,Newcastle,Offsides,2
+1035147,Newcastle,Ball Possession,52%
+1035147,Newcastle,Yellow Cards,1
+1035147,Newcastle,Red Cards,
+1035147,Newcastle,Goalkeeper Saves,8
+1035147,Newcastle,Total passes,469
+1035147,Newcastle,Passes accurate,377
+1035147,Newcastle,Passes %,80%
+1035147,Newcastle,expected_goals,0.49
+1035153,Liverpool,Shots on Goal,10
+1035153,Liverpool,Shots off Goal,4
+1035153,Liverpool,Total Shots,17
+1035153,Liverpool,Blocked Shots,3
+1035153,Liverpool,Shots insidebox,7
+1035153,Liverpool,Shots outsidebox,10
+1035153,Liverpool,Fouls,16
+1035153,Liverpool,Corner Kicks,6
+1035153,Liverpool,Offsides,2
+1035153,Liverpool,Ball Possession,58%
+1035153,Liverpool,Yellow Cards,1
+1035153,Liverpool,Red Cards,
+1035153,Liverpool,Goalkeeper Saves,3
+1035153,Liverpool,Total passes,504
+1035153,Liverpool,Passes accurate,415
+1035153,Liverpool,Passes %,82%
+1035153,Liverpool,expected_goals,1.71
+1035153,Brentford,Shots on Goal,3
+1035153,Brentford,Shots off Goal,9
+1035153,Brentford,Total Shots,16
+1035153,Brentford,Blocked Shots,4
+1035153,Brentford,Shots insidebox,9
+1035153,Brentford,Shots outsidebox,7
+1035153,Brentford,Fouls,12
+1035153,Brentford,Corner Kicks,8
+1035153,Brentford,Offsides,2
+1035153,Brentford,Ball Possession,42%
+1035153,Brentford,Yellow Cards,2
+1035153,Brentford,Red Cards,
+1035153,Brentford,Goalkeeper Saves,8
+1035153,Brentford,Total passes,354
+1035153,Brentford,Passes accurate,269
+1035153,Brentford,Passes %,76%
+1035153,Brentford,expected_goals,1.68
+1035330,Manchester United,Shots on Goal,3
+1035330,Manchester United,Shots off Goal,5
+1035330,Manchester United,Total Shots,20
+1035330,Manchester United,Blocked Shots,12
+1035330,Manchester United,Shots insidebox,15
+1035330,Manchester United,Shots outsidebox,5
+1035330,Manchester United,Fouls,7
+1035330,Manchester United,Corner Kicks,10
+1035330,Manchester United,Offsides,1
+1035330,Manchester United,Ball Possession,69%
+1035330,Manchester United,Yellow Cards,3
+1035330,Manchester United,Red Cards,
+1035330,Manchester United,Goalkeeper Saves,1
+1035330,Manchester United,Total passes,660
+1035330,Manchester United,Passes accurate,561
+1035330,Manchester United,Passes %,85%
+1035330,Manchester United,expected_goals,1.16
+1035330,Bournemouth,Shots on Goal,4
+1035330,Bournemouth,Shots off Goal,5
+1035330,Bournemouth,Total Shots,10
+1035330,Bournemouth,Blocked Shots,1
+1035330,Bournemouth,Shots insidebox,9
+1035330,Bournemouth,Shots outsidebox,1
+1035330,Bournemouth,Fouls,10
+1035330,Bournemouth,Corner Kicks,4
+1035330,Bournemouth,Offsides,2
+1035330,Bournemouth,Ball Possession,31%
+1035330,Bournemouth,Yellow Cards,1
+1035330,Bournemouth,Red Cards,
+1035330,Bournemouth,Goalkeeper Saves,3
+1035330,Bournemouth,Total passes,296
+1035330,Bournemouth,Passes accurate,208
+1035330,Bournemouth,Passes %,70%
+1035330,Bournemouth,expected_goals,1.48
+1035333,Wolves,Shots on Goal,4
+1035333,Wolves,Shots off Goal,4
+1035333,Wolves,Total Shots,10
+1035333,Wolves,Blocked Shots,2
+1035333,Wolves,Shots insidebox,7
+1035333,Wolves,Shots outsidebox,3
+1035333,Wolves,Fouls,9
+1035333,Wolves,Corner Kicks,4
+1035333,Wolves,Offsides,3
+1035333,Wolves,Ball Possession,68%
+1035333,Wolves,Yellow Cards,0
+1035333,Wolves,Red Cards,
+1035333,Wolves,Goalkeeper Saves,1
+1035333,Wolves,Total passes,655
+1035333,Wolves,Passes accurate,555
+1035333,Wolves,Passes %,85%
+1035333,Wolves,expected_goals,1.17
+1035333,Nottingham Forest,Shots on Goal,2
+1035333,Nottingham Forest,Shots off Goal,4
+1035333,Nottingham Forest,Total Shots,8
+1035333,Nottingham Forest,Blocked Shots,2
+1035333,Nottingham Forest,Shots insidebox,6
+1035333,Nottingham Forest,Shots outsidebox,2
+1035333,Nottingham Forest,Fouls,11
+1035333,Nottingham Forest,Corner Kicks,3
+1035333,Nottingham Forest,Offsides,1
+1035333,Nottingham Forest,Ball Possession,32%
+1035333,Nottingham Forest,Yellow Cards,1
+1035333,Nottingham Forest,Red Cards,
+1035333,Nottingham Forest,Goalkeeper Saves,3
+1035333,Nottingham Forest,Total passes,307
+1035333,Nottingham Forest,Passes accurate,210
+1035333,Nottingham Forest,Passes %,68%
+1035333,Nottingham Forest,expected_goals,1.29
+1035325,Brighton,Shots on Goal,11
+1035325,Brighton,Shots off Goal,11
+1035325,Brighton,Total Shots,29
+1035325,Brighton,Blocked Shots,7
+1035325,Brighton,Shots insidebox,23
+1035325,Brighton,Shots outsidebox,6
+1035325,Brighton,Fouls,5
+1035325,Brighton,Corner Kicks,9
+1035325,Brighton,Offsides,2
+1035325,Brighton,Ball Possession,72%
+1035325,Brighton,Yellow Cards,0
+1035325,Brighton,Red Cards,
+1035325,Brighton,Goalkeeper Saves,2
+1035325,Brighton,Total passes,777
+1035325,Brighton,Passes accurate,705
+1035325,Brighton,Passes %,91%
+1035325,Brighton,expected_goals,2.78
+1035325,Burnley,Shots on Goal,3
+1035325,Burnley,Shots off Goal,1
+1035325,Burnley,Total Shots,6
+1035325,Burnley,Blocked Shots,2
+1035325,Burnley,Shots insidebox,5
+1035325,Burnley,Shots outsidebox,1
+1035325,Burnley,Fouls,8
+1035325,Burnley,Corner Kicks,1
+1035325,Burnley,Offsides,1
+1035325,Burnley,Ball Possession,28%
+1035325,Burnley,Yellow Cards,4
+1035325,Burnley,Red Cards,
+1035325,Burnley,Goalkeeper Saves,10
+1035325,Burnley,Total passes,308
+1035325,Burnley,Passes accurate,225
+1035325,Burnley,Passes %,73%
+1035325,Burnley,expected_goals,0.56
+1035331,Sheffield Utd,Shots on Goal,4
+1035331,Sheffield Utd,Shots off Goal,4
+1035331,Sheffield Utd,Total Shots,9
+1035331,Sheffield Utd,Blocked Shots,1
+1035331,Sheffield Utd,Shots insidebox,4
+1035331,Sheffield Utd,Shots outsidebox,5
+1035331,Sheffield Utd,Fouls,14
+1035331,Sheffield Utd,Corner Kicks,3
+1035331,Sheffield Utd,Offsides,1
+1035331,Sheffield Utd,Ball Possession,40%
+1035331,Sheffield Utd,Yellow Cards,5
+1035331,Sheffield Utd,Red Cards,
+1035331,Sheffield Utd,Goalkeeper Saves,4
+1035331,Sheffield Utd,Total passes,334
+1035331,Sheffield Utd,Passes accurate,242
+1035331,Sheffield Utd,Passes %,72%
+1035331,Sheffield Utd,expected_goals,0.81
+1035331,Brentford,Shots on Goal,4
+1035331,Brentford,Shots off Goal,3
+1035331,Brentford,Total Shots,10
+1035331,Brentford,Blocked Shots,3
+1035331,Brentford,Shots insidebox,8
+1035331,Brentford,Shots outsidebox,2
+1035331,Brentford,Fouls,13
+1035331,Brentford,Corner Kicks,3
+1035331,Brentford,Offsides,1
+1035331,Brentford,Ball Possession,60%
+1035331,Brentford,Yellow Cards,1
+1035331,Brentford,Red Cards,
+1035331,Brentford,Goalkeeper Saves,3
+1035331,Brentford,Total passes,489
+1035331,Brentford,Passes accurate,384
+1035331,Brentford,Passes %,79%
+1035331,Brentford,expected_goals,0.66
+1035324,Aston Villa,Shots on Goal,3
+1035324,Aston Villa,Shots off Goal,2
+1035324,Aston Villa,Total Shots,10
+1035324,Aston Villa,Blocked Shots,5
+1035324,Aston Villa,Shots insidebox,5
+1035324,Aston Villa,Shots outsidebox,5
+1035324,Aston Villa,Fouls,16
+1035324,Aston Villa,Corner Kicks,3
+1035324,Aston Villa,Offsides,1
+1035324,Aston Villa,Ball Possession,39%
+1035324,Aston Villa,Yellow Cards,4
+1035324,Aston Villa,Red Cards,
+1035324,Aston Villa,Goalkeeper Saves,3
+1035324,Aston Villa,Total passes,289
+1035324,Aston Villa,Passes accurate,209
+1035324,Aston Villa,Passes %,72%
+1035324,Aston Villa,expected_goals,0.57
+1035324,Arsenal,Shots on Goal,5
+1035324,Arsenal,Shots off Goal,4
+1035324,Arsenal,Total Shots,12
+1035324,Arsenal,Blocked Shots,3
+1035324,Arsenal,Shots insidebox,10
+1035324,Arsenal,Shots outsidebox,2
+1035324,Arsenal,Fouls,11
+1035324,Arsenal,Corner Kicks,3
+1035324,Arsenal,Offsides,4
+1035324,Arsenal,Ball Possession,61%
+1035324,Arsenal,Yellow Cards,2
+1035324,Arsenal,Red Cards,
+1035324,Arsenal,Goalkeeper Saves,2
+1035324,Arsenal,Total passes,462
+1035324,Arsenal,Passes accurate,388
+1035324,Arsenal,Passes %,84%
+1035324,Arsenal,expected_goals,1.40
+1035328,Fulham,Shots on Goal,8
+1035328,Fulham,Shots off Goal,5
+1035328,Fulham,Total Shots,14
+1035328,Fulham,Blocked Shots,1
+1035328,Fulham,Shots insidebox,9
+1035328,Fulham,Shots outsidebox,5
+1035328,Fulham,Fouls,5
+1035328,Fulham,Corner Kicks,3
+1035328,Fulham,Offsides,
+1035328,Fulham,Ball Possession,63%
+1035328,Fulham,Yellow Cards,2
+1035328,Fulham,Red Cards,
+1035328,Fulham,Goalkeeper Saves,5
+1035328,Fulham,Total passes,762
+1035328,Fulham,Passes accurate,680
+1035328,Fulham,Passes %,89%
+1035328,Fulham,expected_goals,2.37
+1035328,West Ham,Shots on Goal,5
+1035328,West Ham,Shots off Goal,3
+1035328,West Ham,Total Shots,9
+1035328,West Ham,Blocked Shots,1
+1035328,West Ham,Shots insidebox,5
+1035328,West Ham,Shots outsidebox,4
+1035328,West Ham,Fouls,10
+1035328,West Ham,Corner Kicks,6
+1035328,West Ham,Offsides,
+1035328,West Ham,Ball Possession,37%
+1035328,West Ham,Yellow Cards,1
+1035328,West Ham,Red Cards,
+1035328,West Ham,Goalkeeper Saves,3
+1035328,West Ham,Total passes,430
+1035328,West Ham,Passes accurate,360
+1035328,West Ham,Passes %,84%
+1035328,West Ham,expected_goals,1.34
+1035327,Everton,Shots on Goal,5
+1035327,Everton,Shots off Goal,2
+1035327,Everton,Total Shots,9
+1035327,Everton,Blocked Shots,2
+1035327,Everton,Shots insidebox,6
+1035327,Everton,Shots outsidebox,3
+1035327,Everton,Fouls,12
+1035327,Everton,Corner Kicks,4
+1035327,Everton,Offsides,2
+1035327,Everton,Ball Possession,28%
+1035327,Everton,Yellow Cards,2
+1035327,Everton,Red Cards,
+1035327,Everton,Goalkeeper Saves,4
+1035327,Everton,Total passes,259
+1035327,Everton,Passes accurate,166
+1035327,Everton,Passes %,64%
+1035327,Everton,expected_goals,1.22
+1035327,Chelsea,Shots on Goal,4
+1035327,Chelsea,Shots off Goal,6
+1035327,Chelsea,Total Shots,16
+1035327,Chelsea,Blocked Shots,6
+1035327,Chelsea,Shots insidebox,7
+1035327,Chelsea,Shots outsidebox,9
+1035327,Chelsea,Fouls,12
+1035327,Chelsea,Corner Kicks,8
+1035327,Chelsea,Offsides,1
+1035327,Chelsea,Ball Possession,72%
+1035327,Chelsea,Yellow Cards,2
+1035327,Chelsea,Red Cards,
+1035327,Chelsea,Goalkeeper Saves,3
+1035327,Chelsea,Total passes,703
+1035327,Chelsea,Passes accurate,610
+1035327,Chelsea,Passes %,87%
+1035327,Chelsea,expected_goals,0.95
+1035329,Luton,Shots on Goal,2
+1035329,Luton,Shots off Goal,2
+1035329,Luton,Total Shots,4
+1035329,Luton,Blocked Shots,0
+1035329,Luton,Shots insidebox,2
+1035329,Luton,Shots outsidebox,2
+1035329,Luton,Fouls,16
+1035329,Luton,Corner Kicks,6
+1035329,Luton,Offsides,1
+1035329,Luton,Ball Possession,35%
+1035329,Luton,Yellow Cards,2
+1035329,Luton,Red Cards,
+1035329,Luton,Goalkeeper Saves,4
+1035329,Luton,Total passes,302
+1035329,Luton,Passes accurate,224
+1035329,Luton,Passes %,74%
+1035329,Luton,expected_goals,0.33
+1035329,Manchester City,Shots on Goal,6
+1035329,Manchester City,Shots off Goal,7
+1035329,Manchester City,Total Shots,18
+1035329,Manchester City,Blocked Shots,5
+1035329,Manchester City,Shots insidebox,9
+1035329,Manchester City,Shots outsidebox,9
+1035329,Manchester City,Fouls,6
+1035329,Manchester City,Corner Kicks,3
+1035329,Manchester City,Offsides,1
+1035329,Manchester City,Ball Possession,65%
+1035329,Manchester City,Yellow Cards,1
+1035329,Manchester City,Red Cards,
+1035329,Manchester City,Goalkeeper Saves,1
+1035329,Manchester City,Total passes,594
+1035329,Manchester City,Passes accurate,513
+1035329,Manchester City,Passes %,86%
+1035329,Manchester City,expected_goals,1.61
+1035332,Tottenham,Shots on Goal,12
+1035332,Tottenham,Shots off Goal,8
+1035332,Tottenham,Total Shots,23
+1035332,Tottenham,Blocked Shots,3
+1035332,Tottenham,Shots insidebox,18
+1035332,Tottenham,Shots outsidebox,5
+1035332,Tottenham,Fouls,10
+1035332,Tottenham,Corner Kicks,3
+1035332,Tottenham,Offsides,1
+1035332,Tottenham,Ball Possession,56%
+1035332,Tottenham,Yellow Cards,1
+1035332,Tottenham,Red Cards,
+1035332,Tottenham,Goalkeeper Saves,2
+1035332,Tottenham,Total passes,536
+1035332,Tottenham,Passes accurate,460
+1035332,Tottenham,Passes %,86%
+1035332,Tottenham,expected_goals,3.81
+1035332,Newcastle,Shots on Goal,3
+1035332,Newcastle,Shots off Goal,4
+1035332,Newcastle,Total Shots,9
+1035332,Newcastle,Blocked Shots,2
+1035332,Newcastle,Shots insidebox,6
+1035332,Newcastle,Shots outsidebox,3
+1035332,Newcastle,Fouls,12
+1035332,Newcastle,Corner Kicks,6
+1035332,Newcastle,Offsides,3
+1035332,Newcastle,Ball Possession,44%
+1035332,Newcastle,Yellow Cards,3
+1035332,Newcastle,Red Cards,
+1035332,Newcastle,Goalkeeper Saves,7
+1035332,Newcastle,Total passes,409
+1035332,Newcastle,Passes accurate,343
+1035332,Newcastle,Passes %,84%
+1035332,Newcastle,expected_goals,1.69
+1035342,Nottingham Forest,Shots on Goal,1
+1035342,Nottingham Forest,Shots off Goal,8
+1035342,Nottingham Forest,Total Shots,15
+1035342,Nottingham Forest,Blocked Shots,6
+1035342,Nottingham Forest,Shots insidebox,10
+1035342,Nottingham Forest,Shots outsidebox,5
+1035342,Nottingham Forest,Fouls,16
+1035342,Nottingham Forest,Corner Kicks,6
+1035342,Nottingham Forest,Offsides,5
+1035342,Nottingham Forest,Ball Possession,33%
+1035342,Nottingham Forest,Yellow Cards,2
+1035342,Nottingham Forest,Red Cards,0
+1035342,Nottingham Forest,Goalkeeper Saves,4
+1035342,Nottingham Forest,Total passes,244
+1035342,Nottingham Forest,Passes accurate,179
+1035342,Nottingham Forest,Passes %,73%
+1035342,Nottingham Forest,expected_goals,1.35
+1035342,Tottenham,Shots on Goal,6
+1035342,Tottenham,Shots off Goal,2
+1035342,Tottenham,Total Shots,12
+1035342,Tottenham,Blocked Shots,4
+1035342,Tottenham,Shots insidebox,11
+1035342,Tottenham,Shots outsidebox,1
+1035342,Tottenham,Fouls,11
+1035342,Tottenham,Corner Kicks,4
+1035342,Tottenham,Offsides,0
+1035342,Tottenham,Ball Possession,67%
+1035342,Tottenham,Yellow Cards,4
+1035342,Tottenham,Red Cards,1
+1035342,Tottenham,Goalkeeper Saves,1
+1035342,Tottenham,Total passes,547
+1035342,Tottenham,Passes accurate,486
+1035342,Tottenham,Passes %,89%
+1035342,Tottenham,expected_goals,1.57
+1035372,West Ham,Shots on Goal,2
+1035372,West Ham,Shots off Goal,4
+1035372,West Ham,Total Shots,6
+1035372,West Ham,Blocked Shots,0
+1035372,West Ham,Shots insidebox,4
+1035372,West Ham,Shots outsidebox,2
+1035372,West Ham,Fouls,4
+1035372,West Ham,Corner Kicks,2
+1035372,West Ham,Offsides,3
+1035372,West Ham,Ball Possession,31%
+1035372,West Ham,Yellow Cards,1
+1035372,West Ham,Red Cards,
+1035372,West Ham,Goalkeeper Saves,8
+1035372,West Ham,Total passes,382
+1035372,West Ham,Passes accurate,311
+1035372,West Ham,Passes %,81%
+1035372,West Ham,expected_goals,0.68
+1035372,Brighton,Shots on Goal,8
+1035372,Brighton,Shots off Goal,9
+1035372,Brighton,Total Shots,22
+1035372,Brighton,Blocked Shots,5
+1035372,Brighton,Shots insidebox,17
+1035372,Brighton,Shots outsidebox,5
+1035372,Brighton,Fouls,6
+1035372,Brighton,Corner Kicks,0
+1035372,Brighton,Offsides,1
+1035372,Brighton,Ball Possession,69%
+1035372,Brighton,Yellow Cards,0
+1035372,Brighton,Red Cards,
+1035372,Brighton,Goalkeeper Saves,2
+1035372,Brighton,Total passes,865
+1035372,Brighton,Passes accurate,799
+1035372,Brighton,Passes %,92%
+1035372,Brighton,expected_goals,2.38
+1035378,Burnley,Shots on Goal,7
+1035378,Burnley,Shots off Goal,6
+1035378,Burnley,Total Shots,13
+1035378,Burnley,Blocked Shots,0
+1035378,Burnley,Shots insidebox,7
+1035378,Burnley,Shots outsidebox,6
+1035378,Burnley,Fouls,7
+1035378,Burnley,Corner Kicks,2
+1035378,Burnley,Offsides,1
+1035378,Burnley,Ball Possession,39%
+1035378,Burnley,Yellow Cards,1
+1035378,Burnley,Red Cards,
+1035378,Burnley,Goalkeeper Saves,4
+1035378,Burnley,Total passes,342
+1035378,Burnley,Passes accurate,240
+1035378,Burnley,Passes %,70%
+1035378,Burnley,expected_goals,1.10
+1035378,Luton,Shots on Goal,5
+1035378,Luton,Shots off Goal,3
+1035378,Luton,Total Shots,14
+1035378,Luton,Blocked Shots,6
+1035378,Luton,Shots insidebox,8
+1035378,Luton,Shots outsidebox,6
+1035378,Luton,Fouls,12
+1035378,Luton,Corner Kicks,8
+1035378,Luton,Offsides,4
+1035378,Luton,Ball Possession,61%
+1035378,Luton,Yellow Cards,0
+1035378,Luton,Red Cards,
+1035378,Luton,Goalkeeper Saves,7
+1035378,Luton,Total passes,542
+1035378,Luton,Passes accurate,439
+1035378,Luton,Passes %,81%
+1035378,Luton,expected_goals,0.95
+1035379,Chelsea,Shots on Goal,3
+1035379,Chelsea,Shots off Goal,9
+1035379,Chelsea,Total Shots,17
+1035379,Chelsea,Blocked Shots,5
+1035379,Chelsea,Shots insidebox,12
+1035379,Chelsea,Shots outsidebox,5
+1035379,Chelsea,Fouls,13
+1035379,Chelsea,Corner Kicks,6
+1035379,Chelsea,Offsides,4
+1035379,Chelsea,Ball Possession,55%
+1035379,Chelsea,Yellow Cards,5
+1035379,Chelsea,Red Cards,
+1035379,Chelsea,Goalkeeper Saves,4
+1035379,Chelsea,Total passes,524
+1035379,Chelsea,Passes accurate,442
+1035379,Chelsea,Passes %,84%
+1035379,Chelsea,expected_goals,2.19
+1035379,Fulham,Shots on Goal,4
+1035379,Fulham,Shots off Goal,6
+1035379,Fulham,Total Shots,14
+1035379,Fulham,Blocked Shots,4
+1035379,Fulham,Shots insidebox,8
+1035379,Fulham,Shots outsidebox,6
+1035379,Fulham,Fouls,9
+1035379,Fulham,Corner Kicks,4
+1035379,Fulham,Offsides,0
+1035379,Fulham,Ball Possession,45%
+1035379,Fulham,Yellow Cards,1
+1035379,Fulham,Red Cards,
+1035379,Fulham,Goalkeeper Saves,2
+1035379,Fulham,Total passes,423
+1035379,Fulham,Passes accurate,330
+1035379,Fulham,Passes %,78%
+1035379,Fulham,expected_goals,0.86
+1035382,Newcastle,Shots on Goal,5
+1035382,Newcastle,Shots off Goal,2
+1035382,Newcastle,Total Shots,12
+1035382,Newcastle,Blocked Shots,5
+1035382,Newcastle,Shots insidebox,10
+1035382,Newcastle,Shots outsidebox,2
+1035382,Newcastle,Fouls,7
+1035382,Newcastle,Corner Kicks,3
+1035382,Newcastle,Offsides,8
+1035382,Newcastle,Ball Possession,27%
+1035382,Newcastle,Yellow Cards,1
+1035382,Newcastle,Red Cards,
+1035382,Newcastle,Goalkeeper Saves,8
+1035382,Newcastle,Total passes,277
+1035382,Newcastle,Passes accurate,203
+1035382,Newcastle,Passes %,73%
+1035382,Newcastle,expected_goals,1.30
+1035382,Manchester City,Shots on Goal,11
+1035382,Manchester City,Shots off Goal,7
+1035382,Manchester City,Total Shots,27
+1035382,Manchester City,Blocked Shots,9
+1035382,Manchester City,Shots insidebox,15
+1035382,Manchester City,Shots outsidebox,12
+1035382,Manchester City,Fouls,7
+1035382,Manchester City,Corner Kicks,13
+1035382,Manchester City,Offsides,1
+1035382,Manchester City,Ball Possession,73%
+1035382,Manchester City,Yellow Cards,2
+1035382,Manchester City,Red Cards,
+1035382,Manchester City,Goalkeeper Saves,3
+1035382,Manchester City,Total passes,747
+1035382,Manchester City,Passes accurate,677
+1035382,Manchester City,Passes %,91%
+1035382,Manchester City,expected_goals,3.00
+1035380,Everton,Shots on Goal,2
+1035380,Everton,Shots off Goal,5
+1035380,Everton,Total Shots,10
+1035380,Everton,Blocked Shots,3
+1035380,Everton,Shots insidebox,7
+1035380,Everton,Shots outsidebox,3
+1035380,Everton,Fouls,13
+1035380,Everton,Corner Kicks,4
+1035380,Everton,Offsides,5
+1035380,Everton,Ball Possession,31%
+1035380,Everton,Yellow Cards,1
+1035380,Everton,Red Cards,
+1035380,Everton,Goalkeeper Saves,4
+1035380,Everton,Total passes,236
+1035380,Everton,Passes accurate,149
+1035380,Everton,Passes %,63%
+1035380,Everton,expected_goals,1.20
+1035380,Aston Villa,Shots on Goal,5
+1035380,Aston Villa,Shots off Goal,7
+1035380,Aston Villa,Total Shots,16
+1035380,Aston Villa,Blocked Shots,4
+1035380,Aston Villa,Shots insidebox,12
+1035380,Aston Villa,Shots outsidebox,4
+1035380,Aston Villa,Fouls,14
+1035380,Aston Villa,Corner Kicks,5
+1035380,Aston Villa,Offsides,1
+1035380,Aston Villa,Ball Possession,69%
+1035380,Aston Villa,Yellow Cards,4
+1035380,Aston Villa,Red Cards,
+1035380,Aston Villa,Goalkeeper Saves,2
+1035380,Aston Villa,Total passes,530
+1035380,Aston Villa,Passes accurate,454
+1035380,Aston Villa,Passes %,86%
+1035380,Aston Villa,expected_goals,1.26
+1035381,Manchester United,Shots on Goal,2
+1035381,Manchester United,Shots off Goal,4
+1035381,Manchester United,Total Shots,9
+1035381,Manchester United,Blocked Shots,3
+1035381,Manchester United,Shots insidebox,6
+1035381,Manchester United,Shots outsidebox,3
+1035381,Manchester United,Fouls,8
+1035381,Manchester United,Corner Kicks,8
+1035381,Manchester United,Offsides,3
+1035381,Manchester United,Ball Possession,36%
+1035381,Manchester United,Yellow Cards,2
+1035381,Manchester United,Red Cards,
+1035381,Manchester United,Goalkeeper Saves,3
+1035381,Manchester United,Total passes,313
+1035381,Manchester United,Passes accurate,237
+1035381,Manchester United,Passes %,76%
+1035381,Manchester United,expected_goals,0.75
+1035381,Tottenham,Shots on Goal,6
+1035381,Tottenham,Shots off Goal,6
+1035381,Tottenham,Total Shots,16
+1035381,Tottenham,Blocked Shots,4
+1035381,Tottenham,Shots insidebox,12
+1035381,Tottenham,Shots outsidebox,4
+1035381,Tottenham,Fouls,5
+1035381,Tottenham,Corner Kicks,13
+1035381,Tottenham,Offsides,4
+1035381,Tottenham,Ball Possession,64%
+1035381,Tottenham,Yellow Cards,1
+1035381,Tottenham,Red Cards,
+1035381,Tottenham,Goalkeeper Saves,0
+1035381,Tottenham,Total passes,555
+1035381,Tottenham,Passes accurate,497
+1035381,Tottenham,Passes %,90%
+1035381,Tottenham,expected_goals,1.23
+1035375,Arsenal,Shots on Goal,6
+1035375,Arsenal,Shots off Goal,8
+1035375,Arsenal,Total Shots,21
+1035375,Arsenal,Blocked Shots,7
+1035375,Arsenal,Shots insidebox,13
+1035375,Arsenal,Shots outsidebox,8
+1035375,Arsenal,Fouls,8
+1035375,Arsenal,Corner Kicks,6
+1035375,Arsenal,Offsides,5
+1035375,Arsenal,Ball Possession,61%
+1035375,Arsenal,Yellow Cards,
+1035375,Arsenal,Red Cards,
+1035375,Arsenal,Goalkeeper Saves,5
+1035375,Arsenal,Total passes,561
+1035375,Arsenal,Passes accurate,487
+1035375,Arsenal,Passes %,87%
+1035375,Arsenal,expected_goals,3.21
+1035375,Crystal Palace,Shots on Goal,5
+1035375,Crystal Palace,Shots off Goal,5
+1035375,Crystal Palace,Total Shots,12
+1035375,Crystal Palace,Blocked Shots,2
+1035375,Crystal Palace,Shots insidebox,3
+1035375,Crystal Palace,Shots outsidebox,9
+1035375,Crystal Palace,Fouls,12
+1035375,Crystal Palace,Corner Kicks,7
+1035375,Crystal Palace,Offsides,2
+1035375,Crystal Palace,Ball Possession,39%
+1035375,Crystal Palace,Yellow Cards,
+1035375,Crystal Palace,Red Cards,
+1035375,Crystal Palace,Goalkeeper Saves,2
+1035375,Crystal Palace,Total passes,362
+1035375,Crystal Palace,Passes accurate,284
+1035375,Crystal Palace,Passes %,78%
+1035375,Crystal Palace,expected_goals,0.35
+1035376,Brentford,Shots on Goal,5
+1035376,Brentford,Shots off Goal,3
+1035376,Brentford,Total Shots,11
+1035376,Brentford,Blocked Shots,3
+1035376,Brentford,Shots insidebox,8
+1035376,Brentford,Shots outsidebox,3
+1035376,Brentford,Fouls,10
+1035376,Brentford,Corner Kicks,6
+1035376,Brentford,Offsides,0
+1035376,Brentford,Ball Possession,48%
+1035376,Brentford,Yellow Cards,1
+1035376,Brentford,Red Cards,
+1035376,Brentford,Goalkeeper Saves,1
+1035376,Brentford,Total passes,456
+1035376,Brentford,Passes accurate,342
+1035376,Brentford,Passes %,75%
+1035376,Brentford,expected_goals,1.20
+1035376,Nottingham Forest,Shots on Goal,3
+1035376,Nottingham Forest,Shots off Goal,5
+1035376,Nottingham Forest,Total Shots,12
+1035376,Nottingham Forest,Blocked Shots,4
+1035376,Nottingham Forest,Shots insidebox,6
+1035376,Nottingham Forest,Shots outsidebox,6
+1035376,Nottingham Forest,Fouls,14
+1035376,Nottingham Forest,Corner Kicks,4
+1035376,Nottingham Forest,Offsides,2
+1035376,Nottingham Forest,Ball Possession,52%
+1035376,Nottingham Forest,Yellow Cards,3
+1035376,Nottingham Forest,Red Cards,
+1035376,Nottingham Forest,Goalkeeper Saves,2
+1035376,Nottingham Forest,Total passes,496
+1035376,Nottingham Forest,Passes accurate,400
+1035376,Nottingham Forest,Passes %,81%
+1035376,Nottingham Forest,expected_goals,1.22
+1035383,Sheffield Utd,Shots on Goal,6
+1035383,Sheffield Utd,Shots off Goal,7
+1035383,Sheffield Utd,Total Shots,21
+1035383,Sheffield Utd,Blocked Shots,8
+1035383,Sheffield Utd,Shots insidebox,12
+1035383,Sheffield Utd,Shots outsidebox,9
+1035383,Sheffield Utd,Fouls,11
+1035383,Sheffield Utd,Corner Kicks,4
+1035383,Sheffield Utd,Offsides,1
+1035383,Sheffield Utd,Ball Possession,57%
+1035383,Sheffield Utd,Yellow Cards,3
+1035383,Sheffield Utd,Red Cards,1
+1035383,Sheffield Utd,Goalkeeper Saves,3
+1035383,Sheffield Utd,Total passes,496
+1035383,Sheffield Utd,Passes accurate,396
+1035383,Sheffield Utd,Passes %,80%
+1035383,Sheffield Utd,expected_goals,2.51
+1035383,West Ham,Shots on Goal,5
+1035383,West Ham,Shots off Goal,5
+1035383,West Ham,Total Shots,16
+1035383,West Ham,Blocked Shots,6
+1035383,West Ham,Shots insidebox,14
+1035383,West Ham,Shots outsidebox,2
+1035383,West Ham,Fouls,10
+1035383,West Ham,Corner Kicks,1
+1035383,West Ham,Offsides,2
+1035383,West Ham,Ball Possession,43%
+1035383,West Ham,Yellow Cards,3
+1035383,West Ham,Red Cards,1
+1035383,West Ham,Goalkeeper Saves,4
+1035383,West Ham,Total passes,370
+1035383,West Ham,Passes accurate,273
+1035383,West Ham,Passes %,74%
+1035383,West Ham,expected_goals,2.34
+1035374,Bournemouth,Shots on Goal,1
+1035374,Bournemouth,Shots off Goal,4
+1035374,Bournemouth,Total Shots,11
+1035374,Bournemouth,Blocked Shots,6
+1035374,Bournemouth,Shots insidebox,5
+1035374,Bournemouth,Shots outsidebox,6
+1035374,Bournemouth,Fouls,9
+1035374,Bournemouth,Corner Kicks,8
+1035374,Bournemouth,Offsides,1
+1035374,Bournemouth,Ball Possession,39%
+1035374,Bournemouth,Yellow Cards,1
+1035374,Bournemouth,Red Cards,
+1035374,Bournemouth,Goalkeeper Saves,3
+1035374,Bournemouth,Total passes,328
+1035374,Bournemouth,Passes accurate,235
+1035374,Bournemouth,Passes %,72%
+1035374,Bournemouth,expected_goals,1.37
+1035374,Liverpool,Shots on Goal,7
+1035374,Liverpool,Shots off Goal,3
+1035374,Liverpool,Total Shots,14
+1035374,Liverpool,Blocked Shots,4
+1035374,Liverpool,Shots insidebox,8
+1035374,Liverpool,Shots outsidebox,6
+1035374,Liverpool,Fouls,12
+1035374,Liverpool,Corner Kicks,5
+1035374,Liverpool,Offsides,0
+1035374,Liverpool,Ball Possession,61%
+1035374,Liverpool,Yellow Cards,2
+1035374,Liverpool,Red Cards,
+1035374,Liverpool,Goalkeeper Saves,1
+1035374,Liverpool,Total passes,526
+1035374,Liverpool,Passes accurate,439
+1035374,Liverpool,Passes %,83%
+1035374,Liverpool,expected_goals,1.57
+1035421,Nottingham Forest,Shots on Goal,8
+1035421,Nottingham Forest,Shots off Goal,7
+1035421,Nottingham Forest,Total Shots,19
+1035421,Nottingham Forest,Blocked Shots,4
+1035421,Nottingham Forest,Shots insidebox,13
+1035421,Nottingham Forest,Shots outsidebox,6
+1035421,Nottingham Forest,Fouls,13
+1035421,Nottingham Forest,Corner Kicks,5
+1035421,Nottingham Forest,Offsides,1
+1035421,Nottingham Forest,Ball Possession,48%
+1035421,Nottingham Forest,Yellow Cards,4
+1035421,Nottingham Forest,Red Cards,0
+1035421,Nottingham Forest,Goalkeeper Saves,3
+1035421,Nottingham Forest,Total passes,406
+1035421,Nottingham Forest,Passes accurate,334
+1035421,Nottingham Forest,Passes %,82%
+1035421,Nottingham Forest,expected_goals,2.82
+1035421,West Ham,Shots on Goal,3
+1035421,West Ham,Shots off Goal,2
+1035421,West Ham,Total Shots,10
+1035421,West Ham,Blocked Shots,5
+1035421,West Ham,Shots insidebox,6
+1035421,West Ham,Shots outsidebox,4
+1035421,West Ham,Fouls,15
+1035421,West Ham,Corner Kicks,2
+1035421,West Ham,Offsides,1
+1035421,West Ham,Ball Possession,52%
+1035421,West Ham,Yellow Cards,6
+1035421,West Ham,Red Cards,1
+1035421,West Ham,Goalkeeper Saves,6
+1035421,West Ham,Total passes,430
+1035421,West Ham,Passes accurate,355
+1035421,West Ham,Passes %,83%
+1035421,West Ham,expected_goals,0.50
+1035419,Manchester City,Shots on Goal,5
+1035419,Manchester City,Shots off Goal,12
+1035419,Manchester City,Total Shots,31
+1035419,Manchester City,Blocked Shots,14
+1035419,Manchester City,Shots insidebox,23
+1035419,Manchester City,Shots outsidebox,8
+1035419,Manchester City,Fouls,7
+1035419,Manchester City,Corner Kicks,12
+1035419,Manchester City,Offsides,0
+1035419,Manchester City,Ball Possession,70%
+1035419,Manchester City,Yellow Cards,1
+1035419,Manchester City,Red Cards,
+1035419,Manchester City,Goalkeeper Saves,5
+1035419,Manchester City,Total passes,711
+1035419,Manchester City,Passes accurate,647
+1035419,Manchester City,Passes %,91%
+1035419,Manchester City,expected_goals,2.69
+1035419,Chelsea,Shots on Goal,6
+1035419,Chelsea,Shots off Goal,2
+1035419,Chelsea,Total Shots,9
+1035419,Chelsea,Blocked Shots,1
+1035419,Chelsea,Shots insidebox,8
+1035419,Chelsea,Shots outsidebox,1
+1035419,Chelsea,Fouls,12
+1035419,Chelsea,Corner Kicks,1
+1035419,Chelsea,Offsides,5
+1035419,Chelsea,Ball Possession,30%
+1035419,Chelsea,Yellow Cards,3
+1035419,Chelsea,Red Cards,
+1035419,Chelsea,Goalkeeper Saves,4
+1035419,Chelsea,Total passes,307
+1035419,Chelsea,Passes accurate,249
+1035419,Chelsea,Passes %,81%
+1035419,Chelsea,expected_goals,1.44
+1035422,Sheffield Utd,Shots on Goal,1
+1035422,Sheffield Utd,Shots off Goal,2
+1035422,Sheffield Utd,Total Shots,6
+1035422,Sheffield Utd,Blocked Shots,3
+1035422,Sheffield Utd,Shots insidebox,3
+1035422,Sheffield Utd,Shots outsidebox,3
+1035422,Sheffield Utd,Fouls,3
+1035422,Sheffield Utd,Corner Kicks,5
+1035422,Sheffield Utd,Offsides,2
+1035422,Sheffield Utd,Ball Possession,21%
+1035422,Sheffield Utd,Yellow Cards,1
+1035422,Sheffield Utd,Red Cards,1
+1035422,Sheffield Utd,Goalkeeper Saves,7
+1035422,Sheffield Utd,Total passes,226
+1035422,Sheffield Utd,Passes accurate,154
+1035422,Sheffield Utd,Passes %,68%
+1035422,Sheffield Utd,expected_goals,0.59
+1035422,Brighton,Shots on Goal,10
+1035422,Brighton,Shots off Goal,5
+1035422,Brighton,Total Shots,24
+1035422,Brighton,Blocked Shots,9
+1035422,Brighton,Shots insidebox,19
+1035422,Brighton,Shots outsidebox,5
+1035422,Brighton,Fouls,5
+1035422,Brighton,Corner Kicks,10
+1035422,Brighton,Offsides,2
+1035422,Brighton,Ball Possession,79%
+1035422,Brighton,Yellow Cards,4
+1035422,Brighton,Red Cards,0
+1035422,Brighton,Goalkeeper Saves,1
+1035422,Brighton,Total passes,871
+1035422,Brighton,Passes accurate,819
+1035422,Brighton,Passes %,94%
+1035422,Brighton,expected_goals,2.90
+1035418,Luton,Shots on Goal,4
+1035418,Luton,Shots off Goal,10
+1035418,Luton,Total Shots,22
+1035418,Luton,Blocked Shots,8
+1035418,Luton,Shots insidebox,13
+1035418,Luton,Shots outsidebox,9
+1035418,Luton,Fouls,7
+1035418,Luton,Corner Kicks,8
+1035418,Luton,Offsides,4
+1035418,Luton,Ball Possession,59%
+1035418,Luton,Yellow Cards,3
+1035418,Luton,Red Cards,
+1035418,Luton,Goalkeeper Saves,6
+1035418,Luton,Total passes,528
+1035418,Luton,Passes accurate,441
+1035418,Luton,Passes %,84%
+1035418,Luton,expected_goals,1.82
+1035418,Manchester United,Shots on Goal,9
+1035418,Manchester United,Shots off Goal,5
+1035418,Manchester United,Total Shots,21
+1035418,Manchester United,Blocked Shots,7
+1035418,Manchester United,Shots insidebox,13
+1035418,Manchester United,Shots outsidebox,8
+1035418,Manchester United,Fouls,21
+1035418,Manchester United,Corner Kicks,6
+1035418,Manchester United,Offsides,1
+1035418,Manchester United,Ball Possession,41%
+1035418,Manchester United,Yellow Cards,5
+1035418,Manchester United,Red Cards,
+1035418,Manchester United,Goalkeeper Saves,3
+1035418,Manchester United,Total passes,391
+1035418,Manchester United,Passes accurate,299
+1035418,Manchester United,Passes %,76%
+1035418,Manchester United,expected_goals,2.98
+1035416,Everton,Shots on Goal,4
+1035416,Everton,Shots off Goal,10
+1035416,Everton,Total Shots,19
+1035416,Everton,Blocked Shots,5
+1035416,Everton,Shots insidebox,12
+1035416,Everton,Shots outsidebox,7
+1035416,Everton,Fouls,8
+1035416,Everton,Corner Kicks,3
+1035416,Everton,Offsides,1
+1035416,Everton,Ball Possession,63%
+1035416,Everton,Yellow Cards,0
+1035416,Everton,Red Cards,
+1035416,Everton,Goalkeeper Saves,2
+1035416,Everton,Total passes,527
+1035416,Everton,Passes accurate,423
+1035416,Everton,Passes %,80%
+1035416,Everton,expected_goals,1.74
+1035416,Crystal Palace,Shots on Goal,4
+1035416,Crystal Palace,Shots off Goal,3
+1035416,Crystal Palace,Total Shots,10
+1035416,Crystal Palace,Blocked Shots,3
+1035416,Crystal Palace,Shots insidebox,9
+1035416,Crystal Palace,Shots outsidebox,1
+1035416,Crystal Palace,Fouls,12
+1035416,Crystal Palace,Corner Kicks,6
+1035416,Crystal Palace,Offsides,2
+1035416,Crystal Palace,Ball Possession,37%
+1035416,Crystal Palace,Yellow Cards,2
+1035416,Crystal Palace,Red Cards,
+1035416,Crystal Palace,Goalkeeper Saves,3
+1035416,Crystal Palace,Total passes,315
+1035416,Crystal Palace,Passes accurate,204
+1035416,Crystal Palace,Passes %,65%
+1035416,Crystal Palace,expected_goals,0.73
+1035349,Manchester City,Shots on Goal,11
+1035349,Manchester City,Shots off Goal,9
+1035349,Manchester City,Total Shots,25
+1035349,Manchester City,Blocked Shots,5
+1035349,Manchester City,Shots insidebox,14
+1035349,Manchester City,Shots outsidebox,11
+1035349,Manchester City,Fouls,12
+1035349,Manchester City,Corner Kicks,10
+1035349,Manchester City,Offsides,1
+1035349,Manchester City,Ball Possession,70%
+1035349,Manchester City,Yellow Cards,2
+1035349,Manchester City,Red Cards,
+1035349,Manchester City,Goalkeeper Saves,2
+1035349,Manchester City,Total passes,712
+1035349,Manchester City,Passes accurate,656
+1035349,Manchester City,Passes %,92%
+1035349,Manchester City,expected_goals,2.45
+1035349,Brentford,Shots on Goal,2
+1035349,Brentford,Shots off Goal,3
+1035349,Brentford,Total Shots,6
+1035349,Brentford,Blocked Shots,1
+1035349,Brentford,Shots insidebox,4
+1035349,Brentford,Shots outsidebox,2
+1035349,Brentford,Fouls,6
+1035349,Brentford,Corner Kicks,1
+1035349,Brentford,Offsides,3
+1035349,Brentford,Ball Possession,30%
+1035349,Brentford,Yellow Cards,4
+1035349,Brentford,Red Cards,
+1035349,Brentford,Goalkeeper Saves,9
+1035349,Brentford,Total passes,304
+1035349,Brentford,Passes accurate,227
+1035349,Brentford,Passes %,75%
+1035349,Brentford,expected_goals,0.35
+1035430,Liverpool,Shots on Goal,13
+1035430,Liverpool,Shots off Goal,8
+1035430,Liverpool,Total Shots,29
+1035430,Liverpool,Blocked Shots,8
+1035430,Liverpool,Shots insidebox,20
+1035430,Liverpool,Shots outsidebox,9
+1035430,Liverpool,Fouls,15
+1035430,Liverpool,Corner Kicks,13
+1035430,Liverpool,Offsides,2
+1035430,Liverpool,Ball Possession,61%
+1035430,Liverpool,Yellow Cards,1
+1035430,Liverpool,Red Cards,
+1035430,Liverpool,Goalkeeper Saves,2
+1035430,Liverpool,Total passes,508
+1035430,Liverpool,Passes accurate,421
+1035430,Liverpool,Passes %,83%
+1035430,Liverpool,expected_goals,3.32
+1035430,Luton,Shots on Goal,3
+1035430,Luton,Shots off Goal,3
+1035430,Luton,Total Shots,12
+1035430,Luton,Blocked Shots,6
+1035430,Luton,Shots insidebox,6
+1035430,Luton,Shots outsidebox,6
+1035430,Luton,Fouls,14
+1035430,Luton,Corner Kicks,4
+1035430,Luton,Offsides,3
+1035430,Luton,Ball Possession,39%
+1035430,Luton,Yellow Cards,4
+1035430,Luton,Red Cards,
+1035430,Luton,Goalkeeper Saves,9
+1035430,Luton,Total passes,329
+1035430,Luton,Passes accurate,242
+1035430,Luton,Passes %,74%
+1035430,Luton,expected_goals,0.92
+1035431,Manchester United,Shots on Goal,9
+1035431,Manchester United,Shots off Goal,6
+1035431,Manchester United,Total Shots,21
+1035431,Manchester United,Blocked Shots,6
+1035431,Manchester United,Shots insidebox,11
+1035431,Manchester United,Shots outsidebox,10
+1035431,Manchester United,Fouls,6
+1035431,Manchester United,Corner Kicks,10
+1035431,Manchester United,Offsides,2
+1035431,Manchester United,Ball Possession,57%
+1035431,Manchester United,Yellow Cards,2
+1035431,Manchester United,Red Cards,
+1035431,Manchester United,Goalkeeper Saves,3
+1035431,Manchester United,Total passes,537
+1035431,Manchester United,Passes accurate,464
+1035431,Manchester United,Passes %,86%
+1035431,Manchester United,expected_goals,1.72
+1035431,Fulham,Shots on Goal,5
+1035431,Fulham,Shots off Goal,8
+1035431,Fulham,Total Shots,17
+1035431,Fulham,Blocked Shots,4
+1035431,Fulham,Shots insidebox,11
+1035431,Fulham,Shots outsidebox,6
+1035431,Fulham,Fouls,11
+1035431,Fulham,Corner Kicks,9
+1035431,Fulham,Offsides,1
+1035431,Fulham,Ball Possession,43%
+1035431,Fulham,Yellow Cards,5
+1035431,Fulham,Red Cards,
+1035431,Fulham,Goalkeeper Saves,7
+1035431,Fulham,Total passes,400
+1035431,Fulham,Passes accurate,326
+1035431,Fulham,Passes %,82%
+1035431,Fulham,expected_goals,1.20
+1035427,Brighton,Shots on Goal,7
+1035427,Brighton,Shots off Goal,5
+1035427,Brighton,Total Shots,23
+1035427,Brighton,Blocked Shots,11
+1035427,Brighton,Shots insidebox,17
+1035427,Brighton,Shots outsidebox,6
+1035427,Brighton,Fouls,9
+1035427,Brighton,Corner Kicks,11
+1035427,Brighton,Offsides,1
+1035427,Brighton,Ball Possession,65%
+1035427,Brighton,Yellow Cards,2
+1035427,Brighton,Red Cards,1
+1035427,Brighton,Goalkeeper Saves,1
+1035427,Brighton,Total passes,638
+1035427,Brighton,Passes accurate,573
+1035427,Brighton,Passes %,90%
+1035427,Brighton,expected_goals,1.41
+1035427,Everton,Shots on Goal,3
+1035427,Everton,Shots off Goal,2
+1035427,Everton,Total Shots,6
+1035427,Everton,Blocked Shots,1
+1035427,Everton,Shots insidebox,5
+1035427,Everton,Shots outsidebox,1
+1035427,Everton,Fouls,14
+1035427,Everton,Corner Kicks,3
+1035427,Everton,Offsides,3
+1035427,Everton,Ball Possession,35%
+1035427,Everton,Yellow Cards,3
+1035427,Everton,Red Cards,0
+1035427,Everton,Goalkeeper Saves,6
+1035427,Everton,Total passes,350
+1035427,Everton,Passes accurate,280
+1035427,Everton,Passes %,80%
+1035427,Everton,expected_goals,0.29
+1035429,Crystal Palace,Shots on Goal,6
+1035429,Crystal Palace,Shots off Goal,6
+1035429,Crystal Palace,Total Shots,15
+1035429,Crystal Palace,Blocked Shots,3
+1035429,Crystal Palace,Shots insidebox,10
+1035429,Crystal Palace,Shots outsidebox,5
+1035429,Crystal Palace,Fouls,8
+1035429,Crystal Palace,Corner Kicks,12
+1035429,Crystal Palace,Offsides,6
+1035429,Crystal Palace,Ball Possession,56%
+1035429,Crystal Palace,Yellow Cards,3
+1035429,Crystal Palace,Red Cards,0
+1035429,Crystal Palace,Goalkeeper Saves,0
+1035429,Crystal Palace,Total passes,477
+1035429,Crystal Palace,Passes accurate,377
+1035429,Crystal Palace,Passes %,79%
+1035429,Crystal Palace,expected_goals,2.40
+1035429,Burnley,Shots on Goal,0
+1035429,Burnley,Shots off Goal,1
+1035429,Burnley,Total Shots,2
+1035429,Burnley,Blocked Shots,1
+1035429,Burnley,Shots insidebox,2
+1035429,Burnley,Shots outsidebox,0
+1035429,Burnley,Fouls,14
+1035429,Burnley,Corner Kicks,3
+1035429,Burnley,Offsides,2
+1035429,Burnley,Ball Possession,44%
+1035429,Burnley,Yellow Cards,1
+1035429,Burnley,Red Cards,1
+1035429,Burnley,Goalkeeper Saves,3
+1035429,Burnley,Total passes,393
+1035429,Burnley,Passes accurate,280
+1035429,Burnley,Passes %,71%
+1035429,Burnley,expected_goals,0.08
+1035471,Nottingham Forest,Shots on Goal,5
+1035471,Nottingham Forest,Shots off Goal,3
+1035471,Nottingham Forest,Total Shots,12
+1035471,Nottingham Forest,Blocked Shots,4
+1035471,Nottingham Forest,Shots insidebox,6
+1035471,Nottingham Forest,Shots outsidebox,6
+1035471,Nottingham Forest,Fouls,14
+1035471,Nottingham Forest,Corner Kicks,4
+1035471,Nottingham Forest,Offsides,4
+1035471,Nottingham Forest,Ball Possession,58%
+1035471,Nottingham Forest,Yellow Cards,1
+1035471,Nottingham Forest,Red Cards,
+1035471,Nottingham Forest,Goalkeeper Saves,2
+1035471,Nottingham Forest,Total passes,547
+1035471,Nottingham Forest,Passes accurate,461
+1035471,Nottingham Forest,Passes %,84%
+1035471,Nottingham Forest,expected_goals,0.92
+1035471,Crystal Palace,Shots on Goal,3
+1035471,Crystal Palace,Shots off Goal,6
+1035471,Crystal Palace,Total Shots,10
+1035471,Crystal Palace,Blocked Shots,1
+1035471,Crystal Palace,Shots insidebox,6
+1035471,Crystal Palace,Shots outsidebox,4
+1035471,Crystal Palace,Fouls,12
+1035471,Crystal Palace,Corner Kicks,6
+1035471,Crystal Palace,Offsides,0
+1035471,Crystal Palace,Ball Possession,42%
+1035471,Crystal Palace,Yellow Cards,1
+1035471,Crystal Palace,Red Cards,
+1035471,Crystal Palace,Goalkeeper Saves,4
+1035471,Crystal Palace,Total passes,397
+1035471,Crystal Palace,Passes accurate,300
+1035471,Crystal Palace,Passes %,76%
+1035471,Crystal Palace,expected_goals,1.19
+1035465,Aston Villa,Shots on Goal,5
+1035465,Aston Villa,Shots off Goal,4
+1035465,Aston Villa,Total Shots,11
+1035465,Aston Villa,Blocked Shots,2
+1035465,Aston Villa,Shots insidebox,7
+1035465,Aston Villa,Shots outsidebox,4
+1035465,Aston Villa,Fouls,11
+1035465,Aston Villa,Corner Kicks,5
+1035465,Aston Villa,Offsides,1
+1035465,Aston Villa,Ball Possession,48%
+1035465,Aston Villa,Yellow Cards,3
+1035465,Aston Villa,Red Cards,
+1035465,Aston Villa,Goalkeeper Saves,3
+1035465,Aston Villa,Total passes,408
+1035465,Aston Villa,Passes accurate,359
+1035465,Aston Villa,Passes %,88%
+1035465,Aston Villa,expected_goals,0.98
+1035465,Wolves,Shots on Goal,3
+1035465,Wolves,Shots off Goal,7
+1035465,Wolves,Total Shots,13
+1035465,Wolves,Blocked Shots,3
+1035465,Wolves,Shots insidebox,10
+1035465,Wolves,Shots outsidebox,3
+1035465,Wolves,Fouls,19
+1035465,Wolves,Corner Kicks,4
+1035465,Wolves,Offsides,2
+1035465,Wolves,Ball Possession,52%
+1035465,Wolves,Yellow Cards,4
+1035465,Wolves,Red Cards,
+1035465,Wolves,Goalkeeper Saves,3
+1035465,Wolves,Total passes,439
+1035465,Wolves,Passes accurate,384
+1035465,Wolves,Passes %,87%
+1035465,Wolves,expected_goals,1.49
+1035466,Brentford,Shots on Goal,5
+1035466,Brentford,Shots off Goal,17
+1035466,Brentford,Total Shots,31
+1035466,Brentford,Blocked Shots,9
+1035466,Brentford,Shots insidebox,24
+1035466,Brentford,Shots outsidebox,7
+1035466,Brentford,Fouls,7
+1035466,Brentford,Corner Kicks,14
+1035466,Brentford,Offsides,1
+1035466,Brentford,Ball Possession,47%
+1035466,Brentford,Yellow Cards,3
+1035466,Brentford,Red Cards,
+1035466,Brentford,Goalkeeper Saves,4
+1035466,Brentford,Total passes,377
+1035466,Brentford,Passes accurate,263
+1035466,Brentford,Passes %,70%
+1035466,Brentford,expected_goals,3.29
+1035466,Manchester United,Shots on Goal,5
+1035466,Manchester United,Shots off Goal,4
+1035466,Manchester United,Total Shots,11
+1035466,Manchester United,Blocked Shots,2
+1035466,Manchester United,Shots insidebox,3
+1035466,Manchester United,Shots outsidebox,8
+1035466,Manchester United,Fouls,14
+1035466,Manchester United,Corner Kicks,4
+1035466,Manchester United,Offsides,2
+1035466,Manchester United,Ball Possession,53%
+1035466,Manchester United,Yellow Cards,2
+1035466,Manchester United,Red Cards,
+1035466,Manchester United,Goalkeeper Saves,4
+1035466,Manchester United,Total passes,450
+1035466,Manchester United,Passes accurate,359
+1035466,Manchester United,Passes %,80%
+1035466,Manchester United,expected_goals,0.59
+1035468,Liverpool,Shots on Goal,8
+1035468,Liverpool,Shots off Goal,12
+1035468,Liverpool,Total Shots,30
+1035468,Liverpool,Blocked Shots,10
+1035468,Liverpool,Shots insidebox,20
+1035468,Liverpool,Shots outsidebox,10
+1035468,Liverpool,Fouls,20
+1035468,Liverpool,Corner Kicks,8
+1035468,Liverpool,Offsides,5
+1035468,Liverpool,Ball Possession,54%
+1035468,Liverpool,Yellow Cards,5
+1035468,Liverpool,Red Cards,
+1035468,Liverpool,Goalkeeper Saves,2
+1035468,Liverpool,Total passes,585
+1035468,Liverpool,Passes accurate,521
+1035468,Liverpool,Passes %,89%
+1035468,Liverpool,expected_goals,2.83
+1035468,Brighton,Shots on Goal,3
+1035468,Brighton,Shots off Goal,4
+1035468,Brighton,Total Shots,9
+1035468,Brighton,Blocked Shots,2
+1035468,Brighton,Shots insidebox,7
+1035468,Brighton,Shots outsidebox,2
+1035468,Brighton,Fouls,6
+1035468,Brighton,Corner Kicks,4
+1035468,Brighton,Offsides,3
+1035468,Brighton,Ball Possession,46%
+1035468,Brighton,Yellow Cards,3
+1035468,Brighton,Red Cards,
+1035468,Brighton,Goalkeeper Saves,6
+1035468,Brighton,Total passes,484
+1035468,Brighton,Passes accurate,414
+1035468,Brighton,Passes %,86%
+1035468,Brighton,expected_goals,0.45
+1035469,Manchester City,Shots on Goal,1
+1035469,Manchester City,Shots off Goal,7
+1035469,Manchester City,Total Shots,12
+1035469,Manchester City,Blocked Shots,4
+1035469,Manchester City,Shots insidebox,9
+1035469,Manchester City,Shots outsidebox,3
+1035469,Manchester City,Fouls,9
+1035469,Manchester City,Corner Kicks,7
+1035469,Manchester City,Offsides,2
+1035469,Manchester City,Ball Possession,73%
+1035469,Manchester City,Yellow Cards,0
+1035469,Manchester City,Red Cards,
+1035469,Manchester City,Goalkeeper Saves,2
+1035469,Manchester City,Total passes,700
+1035469,Manchester City,Passes accurate,618
+1035469,Manchester City,Passes %,88%
+1035469,Manchester City,expected_goals,1.02
+1035469,Arsenal,Shots on Goal,2
+1035469,Arsenal,Shots off Goal,2
+1035469,Arsenal,Total Shots,6
+1035469,Arsenal,Blocked Shots,2
+1035469,Arsenal,Shots insidebox,5
+1035469,Arsenal,Shots outsidebox,1
+1035469,Arsenal,Fouls,20
+1035469,Arsenal,Corner Kicks,4
+1035469,Arsenal,Offsides,1
+1035469,Arsenal,Ball Possession,27%
+1035469,Arsenal,Yellow Cards,2
+1035469,Arsenal,Red Cards,
+1035469,Arsenal,Goalkeeper Saves,1
+1035469,Arsenal,Total passes,269
+1035469,Arsenal,Passes accurate,191
+1035469,Arsenal,Passes %,71%
+1035469,Arsenal,expected_goals,0.66
+1035481,Newcastle,Shots on Goal,6
+1035481,Newcastle,Shots off Goal,4
+1035481,Newcastle,Total Shots,18
+1035481,Newcastle,Blocked Shots,8
+1035481,Newcastle,Shots insidebox,13
+1035481,Newcastle,Shots outsidebox,5
+1035481,Newcastle,Fouls,9
+1035481,Newcastle,Corner Kicks,7
+1035481,Newcastle,Offsides,2
+1035481,Newcastle,Ball Possession,58%
+1035481,Newcastle,Yellow Cards,0
+1035481,Newcastle,Red Cards,
+1035481,Newcastle,Goalkeeper Saves,2
+1035481,Newcastle,Total passes,495
+1035481,Newcastle,Passes accurate,403
+1035481,Newcastle,Passes %,81%
+1035481,Newcastle,expected_goals,2.44
+1035481,Everton,Shots on Goal,3
+1035481,Everton,Shots off Goal,6
+1035481,Everton,Total Shots,10
+1035481,Everton,Blocked Shots,1
+1035481,Everton,Shots insidebox,8
+1035481,Everton,Shots outsidebox,2
+1035481,Everton,Fouls,14
+1035481,Everton,Corner Kicks,3
+1035481,Everton,Offsides,0
+1035481,Everton,Ball Possession,42%
+1035481,Everton,Yellow Cards,3
+1035481,Everton,Red Cards,
+1035481,Everton,Goalkeeper Saves,4
+1035481,Everton,Total passes,361
+1035481,Everton,Passes accurate,272
+1035481,Everton,Passes %,75%
+1035481,Everton,expected_goals,1.44
+1035478,Nottingham Forest,Shots on Goal,4
+1035478,Nottingham Forest,Shots off Goal,8
+1035478,Nottingham Forest,Total Shots,16
+1035478,Nottingham Forest,Blocked Shots,4
+1035478,Nottingham Forest,Shots insidebox,9
+1035478,Nottingham Forest,Shots outsidebox,7
+1035478,Nottingham Forest,Fouls,7
+1035478,Nottingham Forest,Corner Kicks,3
+1035478,Nottingham Forest,Offsides,2
+1035478,Nottingham Forest,Ball Possession,33%
+1035478,Nottingham Forest,Yellow Cards,1
+1035478,Nottingham Forest,Red Cards,
+1035478,Nottingham Forest,Goalkeeper Saves,2
+1035478,Nottingham Forest,Total passes,324
+1035478,Nottingham Forest,Passes accurate,252
+1035478,Nottingham Forest,Passes %,78%
+1035478,Nottingham Forest,expected_goals,1.53
+1035478,Fulham,Shots on Goal,3
+1035478,Fulham,Shots off Goal,13
+1035478,Fulham,Total Shots,18
+1035478,Fulham,Blocked Shots,2
+1035478,Fulham,Shots insidebox,15
+1035478,Fulham,Shots outsidebox,3
+1035478,Fulham,Fouls,8
+1035478,Fulham,Corner Kicks,8
+1035478,Fulham,Offsides,0
+1035478,Fulham,Ball Possession,67%
+1035478,Fulham,Yellow Cards,0
+1035478,Fulham,Red Cards,
+1035478,Fulham,Goalkeeper Saves,1
+1035478,Fulham,Total passes,629
+1035478,Fulham,Passes accurate,551
+1035478,Fulham,Passes %,88%
+1035478,Fulham,expected_goals,1.50
+1035474,Bournemouth,Shots on Goal,6
+1035474,Bournemouth,Shots off Goal,3
+1035474,Bournemouth,Total Shots,11
+1035474,Bournemouth,Blocked Shots,2
+1035474,Bournemouth,Shots insidebox,6
+1035474,Bournemouth,Shots outsidebox,5
+1035474,Bournemouth,Fouls,13
+1035474,Bournemouth,Corner Kicks,9
+1035474,Bournemouth,Offsides,0
+1035474,Bournemouth,Ball Possession,50%
+1035474,Bournemouth,Yellow Cards,3
+1035474,Bournemouth,Red Cards,
+1035474,Bournemouth,Goalkeeper Saves,2
+1035474,Bournemouth,Total passes,442
+1035474,Bournemouth,Passes accurate,349
+1035474,Bournemouth,Passes %,79%
+1035474,Bournemouth,expected_goals,1.10
+1035474,Crystal Palace,Shots on Goal,2
+1035474,Crystal Palace,Shots off Goal,1
+1035474,Crystal Palace,Total Shots,3
+1035474,Crystal Palace,Blocked Shots,0
+1035474,Crystal Palace,Shots insidebox,3
+1035474,Crystal Palace,Shots outsidebox,0
+1035474,Crystal Palace,Fouls,14
+1035474,Crystal Palace,Corner Kicks,2
+1035474,Crystal Palace,Offsides,4
+1035474,Crystal Palace,Ball Possession,50%
+1035474,Crystal Palace,Yellow Cards,2
+1035474,Crystal Palace,Red Cards,
+1035474,Crystal Palace,Goalkeeper Saves,5
+1035474,Crystal Palace,Total passes,457
+1035474,Crystal Palace,Passes accurate,350
+1035474,Crystal Palace,Passes %,77%
+1035474,Crystal Palace,expected_goals,0.19
+1035477,Burnley,Shots on Goal,6
+1035477,Burnley,Shots off Goal,4
+1035477,Burnley,Total Shots,13
+1035477,Burnley,Blocked Shots,3
+1035477,Burnley,Shots insidebox,8
+1035477,Burnley,Shots outsidebox,5
+1035477,Burnley,Fouls,10
+1035477,Burnley,Corner Kicks,7
+1035477,Burnley,Offsides,2
+1035477,Burnley,Ball Possession,51%
+1035477,Burnley,Yellow Cards,0
+1035477,Burnley,Red Cards,
+1035477,Burnley,Goalkeeper Saves,1
+1035477,Burnley,Total passes,468
+1035477,Burnley,Passes accurate,392
+1035477,Burnley,Passes %,84%
+1035477,Burnley,expected_goals,1.34
+1035477,Wolves,Shots on Goal,2
+1035477,Wolves,Shots off Goal,4
+1035477,Wolves,Total Shots,8
+1035477,Wolves,Blocked Shots,2
+1035477,Wolves,Shots insidebox,7
+1035477,Wolves,Shots outsidebox,1
+1035477,Wolves,Fouls,12
+1035477,Wolves,Corner Kicks,4
+1035477,Wolves,Offsides,5
+1035477,Wolves,Ball Possession,49%
+1035477,Wolves,Yellow Cards,2
+1035477,Wolves,Red Cards,
+1035477,Wolves,Goalkeeper Saves,5
+1035477,Wolves,Total passes,468
+1035477,Wolves,Passes accurate,395
+1035477,Wolves,Passes %,84%
+1035477,Wolves,expected_goals,0.90
+1035479,West Ham,Shots on Goal,4
+1035479,West Ham,Shots off Goal,4
+1035479,West Ham,Total Shots,11
+1035479,West Ham,Blocked Shots,3
+1035479,West Ham,Shots insidebox,7
+1035479,West Ham,Shots outsidebox,4
+1035479,West Ham,Fouls,13
+1035479,West Ham,Corner Kicks,9
+1035479,West Ham,Offsides,3
+1035479,West Ham,Ball Possession,32%
+1035479,West Ham,Yellow Cards,1
+1035479,West Ham,Red Cards,
+1035479,West Ham,Goalkeeper Saves,3
+1035479,West Ham,Total passes,302
+1035479,West Ham,Passes accurate,238
+1035479,West Ham,Passes %,79%
+1035479,West Ham,expected_goals,1.49
+1035479,Tottenham,Shots on Goal,4
+1035479,Tottenham,Shots off Goal,5
+1035479,Tottenham,Total Shots,13
+1035479,Tottenham,Blocked Shots,4
+1035479,Tottenham,Shots insidebox,10
+1035479,Tottenham,Shots outsidebox,3
+1035479,Tottenham,Fouls,9
+1035479,Tottenham,Corner Kicks,5
+1035479,Tottenham,Offsides,1
+1035479,Tottenham,Ball Possession,68%
+1035479,Tottenham,Yellow Cards,4
+1035479,Tottenham,Red Cards,
+1035479,Tottenham,Goalkeeper Saves,3
+1035479,Tottenham,Total passes,662
+1035479,Tottenham,Passes accurate,590
+1035479,Tottenham,Passes %,89%
+1035479,Tottenham,expected_goals,0.96
+1035457,Crystal Palace,Shots on Goal,7
+1035457,Crystal Palace,Shots off Goal,6
+1035457,Crystal Palace,Total Shots,20
+1035457,Crystal Palace,Blocked Shots,7
+1035457,Crystal Palace,Shots insidebox,9
+1035457,Crystal Palace,Shots outsidebox,11
+1035457,Crystal Palace,Fouls,10
+1035457,Crystal Palace,Corner Kicks,7
+1035457,Crystal Palace,Offsides,5
+1035457,Crystal Palace,Ball Possession,47%
+1035457,Crystal Palace,Yellow Cards,3
+1035457,Crystal Palace,Red Cards,
+1035457,Crystal Palace,Goalkeeper Saves,2
+1035457,Crystal Palace,Total passes,441
+1035457,Crystal Palace,Passes accurate,336
+1035457,Crystal Palace,Passes %,76%
+1035457,Crystal Palace,expected_goals,0.89
+1035457,Newcastle,Shots on Goal,2
+1035457,Newcastle,Shots off Goal,2
+1035457,Newcastle,Total Shots,7
+1035457,Newcastle,Blocked Shots,3
+1035457,Newcastle,Shots insidebox,6
+1035457,Newcastle,Shots outsidebox,1
+1035457,Newcastle,Fouls,15
+1035457,Newcastle,Corner Kicks,2
+1035457,Newcastle,Offsides,2
+1035457,Newcastle,Ball Possession,53%
+1035457,Newcastle,Yellow Cards,3
+1035457,Newcastle,Red Cards,
+1035457,Newcastle,Goalkeeper Saves,5
+1035457,Newcastle,Total passes,506
+1035457,Newcastle,Passes accurate,390
+1035457,Newcastle,Passes %,77%
+1035457,Newcastle,expected_goals,0.36
+1035455,Brighton,Shots on Goal,3
+1035455,Brighton,Shots off Goal,3
+1035455,Brighton,Total Shots,7
+1035455,Brighton,Blocked Shots,1
+1035455,Brighton,Shots insidebox,5
+1035455,Brighton,Shots outsidebox,2
+1035455,Brighton,Fouls,10
+1035455,Brighton,Corner Kicks,4
+1035455,Brighton,Offsides,5
+1035455,Brighton,Ball Possession,35%
+1035455,Brighton,Yellow Cards,2
+1035455,Brighton,Red Cards,
+1035455,Brighton,Goalkeeper Saves,2
+1035455,Brighton,Total passes,421
+1035455,Brighton,Passes accurate,376
+1035455,Brighton,Passes %,89%
+1035455,Brighton,expected_goals,0.62
+1035455,Manchester City,Shots on Goal,6
+1035455,Manchester City,Shots off Goal,4
+1035455,Manchester City,Total Shots,14
+1035455,Manchester City,Blocked Shots,4
+1035455,Manchester City,Shots insidebox,10
+1035455,Manchester City,Shots outsidebox,4
+1035455,Manchester City,Fouls,3
+1035455,Manchester City,Corner Kicks,4
+1035455,Manchester City,Offsides,1
+1035455,Manchester City,Ball Possession,65%
+1035455,Manchester City,Yellow Cards,0
+1035455,Manchester City,Red Cards,
+1035455,Manchester City,Goalkeeper Saves,3
+1035455,Manchester City,Total passes,786
+1035455,Manchester City,Passes accurate,734
+1035455,Manchester City,Passes %,93%
+1035455,Manchester City,expected_goals,1.36
+1035522,West Ham,Shots on Goal,8
+1035522,West Ham,Shots off Goal,2
+1035522,West Ham,Total Shots,11
+1035522,West Ham,Blocked Shots,1
+1035522,West Ham,Shots insidebox,8
+1035522,West Ham,Shots outsidebox,3
+1035522,West Ham,Fouls,8
+1035522,West Ham,Corner Kicks,4
+1035522,West Ham,Offsides,1
+1035522,West Ham,Ball Possession,29%
+1035522,West Ham,Yellow Cards,0
+1035522,West Ham,Red Cards,
+1035522,West Ham,Goalkeeper Saves,7
+1035522,West Ham,Total passes,267
+1035522,West Ham,Passes accurate,183
+1035522,West Ham,Passes %,69%
+1035522,West Ham,expected_goals,0.70
+1035522,Liverpool,Shots on Goal,8
+1035522,Liverpool,Shots off Goal,14
+1035522,Liverpool,Total Shots,28
+1035522,Liverpool,Blocked Shots,6
+1035522,Liverpool,Shots insidebox,23
+1035522,Liverpool,Shots outsidebox,5
+1035522,Liverpool,Fouls,10
+1035522,Liverpool,Corner Kicks,8
+1035522,Liverpool,Offsides,4
+1035522,Liverpool,Ball Possession,71%
+1035522,Liverpool,Yellow Cards,2
+1035522,Liverpool,Red Cards,
+1035522,Liverpool,Goalkeeper Saves,6
+1035522,Liverpool,Total passes,675
+1035522,Liverpool,Passes accurate,587
+1035522,Liverpool,Passes %,87%
+1035522,Liverpool,expected_goals,1.75
+1035518,Manchester United,Shots on Goal,10
+1035518,Manchester United,Shots off Goal,8
+1035518,Manchester United,Total Shots,27
+1035518,Manchester United,Blocked Shots,9
+1035518,Manchester United,Shots insidebox,16
+1035518,Manchester United,Shots outsidebox,11
+1035518,Manchester United,Fouls,8
+1035518,Manchester United,Corner Kicks,6
+1035518,Manchester United,Offsides,0
+1035518,Manchester United,Ball Possession,48%
+1035518,Manchester United,Yellow Cards,1
+1035518,Manchester United,Red Cards,
+1035518,Manchester United,Goalkeeper Saves,6
+1035518,Manchester United,Total passes,414
+1035518,Manchester United,Passes accurate,323
+1035518,Manchester United,Passes %,78%
+1035518,Manchester United,expected_goals,2.71
+1035518,Burnley,Shots on Goal,7
+1035518,Burnley,Shots off Goal,5
+1035518,Burnley,Total Shots,16
+1035518,Burnley,Blocked Shots,4
+1035518,Burnley,Shots insidebox,10
+1035518,Burnley,Shots outsidebox,6
+1035518,Burnley,Fouls,11
+1035518,Burnley,Corner Kicks,5
+1035518,Burnley,Offsides,2
+1035518,Burnley,Ball Possession,52%
+1035518,Burnley,Yellow Cards,3
+1035518,Burnley,Red Cards,
+1035518,Burnley,Goalkeeper Saves,9
+1035518,Burnley,Total passes,452
+1035518,Burnley,Passes accurate,355
+1035518,Burnley,Passes %,79%
+1035518,Burnley,expected_goals,2.06
+1035519,Newcastle,Shots on Goal,7
+1035519,Newcastle,Shots off Goal,4
+1035519,Newcastle,Total Shots,20
+1035519,Newcastle,Blocked Shots,9
+1035519,Newcastle,Shots insidebox,14
+1035519,Newcastle,Shots outsidebox,6
+1035519,Newcastle,Fouls,9
+1035519,Newcastle,Corner Kicks,4
+1035519,Newcastle,Offsides,3
+1035519,Newcastle,Ball Possession,60%
+1035519,Newcastle,Yellow Cards,
+1035519,Newcastle,Red Cards,
+1035519,Newcastle,Goalkeeper Saves,3
+1035519,Newcastle,Total passes,575
+1035519,Newcastle,Passes accurate,499
+1035519,Newcastle,Passes %,87%
+1035519,Newcastle,expected_goals,3.11
+1035519,Sheffield Utd,Shots on Goal,5
+1035519,Sheffield Utd,Shots off Goal,6
+1035519,Sheffield Utd,Total Shots,15
+1035519,Sheffield Utd,Blocked Shots,4
+1035519,Sheffield Utd,Shots insidebox,13
+1035519,Sheffield Utd,Shots outsidebox,2
+1035519,Sheffield Utd,Fouls,10
+1035519,Sheffield Utd,Corner Kicks,5
+1035519,Sheffield Utd,Offsides,0
+1035519,Sheffield Utd,Ball Possession,40%
+1035519,Sheffield Utd,Yellow Cards,
+1035519,Sheffield Utd,Red Cards,
+1035519,Sheffield Utd,Goalkeeper Saves,3
+1035519,Sheffield Utd,Total passes,392
+1035519,Sheffield Utd,Passes accurate,318
+1035519,Sheffield Utd,Passes %,81%
+1035519,Sheffield Utd,expected_goals,1.55
+1035517,Fulham,Shots on Goal,2
+1035517,Fulham,Shots off Goal,6
+1035517,Fulham,Total Shots,9
+1035517,Fulham,Blocked Shots,1
+1035517,Fulham,Shots insidebox,7
+1035517,Fulham,Shots outsidebox,2
+1035517,Fulham,Fouls,11
+1035517,Fulham,Corner Kicks,5
+1035517,Fulham,Offsides,1
+1035517,Fulham,Ball Possession,54%
+1035517,Fulham,Yellow Cards,0
+1035517,Fulham,Red Cards,
+1035517,Fulham,Goalkeeper Saves,3
+1035517,Fulham,Total passes,530
+1035517,Fulham,Passes accurate,417
+1035517,Fulham,Passes %,79%
+1035517,Fulham,expected_goals,1.14
+1035517,Crystal Palace,Shots on Goal,4
+1035517,Crystal Palace,Shots off Goal,8
+1035517,Crystal Palace,Total Shots,14
+1035517,Crystal Palace,Blocked Shots,2
+1035517,Crystal Palace,Shots insidebox,6
+1035517,Crystal Palace,Shots outsidebox,8
+1035517,Crystal Palace,Fouls,15
+1035517,Crystal Palace,Corner Kicks,9
+1035517,Crystal Palace,Offsides,1
+1035517,Crystal Palace,Ball Possession,46%
+1035517,Crystal Palace,Yellow Cards,2
+1035517,Crystal Palace,Red Cards,
+1035517,Crystal Palace,Goalkeeper Saves,1
+1035517,Crystal Palace,Total passes,446
+1035517,Crystal Palace,Passes accurate,363
+1035517,Crystal Palace,Passes %,81%
+1035517,Crystal Palace,expected_goals,1.01
+1035523,Wolves,Shots on Goal,5
+1035523,Wolves,Shots off Goal,4
+1035523,Wolves,Total Shots,13
+1035523,Wolves,Blocked Shots,4
+1035523,Wolves,Shots insidebox,6
+1035523,Wolves,Shots outsidebox,7
+1035523,Wolves,Fouls,14
+1035523,Wolves,Corner Kicks,4
+1035523,Wolves,Offsides,2
+1035523,Wolves,Ball Possession,58%
+1035523,Wolves,Yellow Cards,3
+1035523,Wolves,Red Cards,
+1035523,Wolves,Goalkeeper Saves,5
+1035523,Wolves,Total passes,613
+1035523,Wolves,Passes accurate,535
+1035523,Wolves,Passes %,87%
+1035523,Wolves,expected_goals,1.21
+1035523,Luton,Shots on Goal,6
+1035523,Luton,Shots off Goal,2
+1035523,Luton,Total Shots,9
+1035523,Luton,Blocked Shots,1
+1035523,Luton,Shots insidebox,6
+1035523,Luton,Shots outsidebox,3
+1035523,Luton,Fouls,14
+1035523,Luton,Corner Kicks,4
+1035523,Luton,Offsides,0
+1035523,Luton,Ball Possession,42%
+1035523,Luton,Yellow Cards,1
+1035523,Luton,Red Cards,
+1035523,Luton,Goalkeeper Saves,3
+1035523,Luton,Total passes,433
+1035523,Luton,Passes accurate,362
+1035523,Luton,Passes %,84%
+1035523,Luton,expected_goals,0.59
+1035516,Everton,Shots on Goal,1
+1035516,Everton,Shots off Goal,9
+1035516,Everton,Total Shots,18
+1035516,Everton,Blocked Shots,8
+1035516,Everton,Shots insidebox,10
+1035516,Everton,Shots outsidebox,8
+1035516,Everton,Fouls,10
+1035516,Everton,Corner Kicks,6
+1035516,Everton,Offsides,4
+1035516,Everton,Ball Possession,48%
+1035516,Everton,Yellow Cards,1
+1035516,Everton,Red Cards,
+1035516,Everton,Goalkeeper Saves,4
+1035516,Everton,Total passes,416
+1035516,Everton,Passes accurate,324
+1035516,Everton,Passes %,78%
+1035516,Everton,expected_goals,0.86
+1035516,Brentford,Shots on Goal,4
+1035516,Brentford,Shots off Goal,2
+1035516,Brentford,Total Shots,10
+1035516,Brentford,Blocked Shots,4
+1035516,Brentford,Shots insidebox,6
+1035516,Brentford,Shots outsidebox,4
+1035516,Brentford,Fouls,12
+1035516,Brentford,Corner Kicks,6
+1035516,Brentford,Offsides,2
+1035516,Brentford,Ball Possession,52%
+1035516,Brentford,Yellow Cards,2
+1035516,Brentford,Red Cards,
+1035516,Brentford,Goalkeeper Saves,0
+1035516,Brentford,Total passes,458
+1035516,Brentford,Passes accurate,358
+1035516,Brentford,Passes %,78%
+1035516,Brentford,expected_goals,0.88
+1035515,Aston Villa,Shots on Goal,4
+1035515,Aston Villa,Shots off Goal,5
+1035515,Aston Villa,Total Shots,9
+1035515,Aston Villa,Blocked Shots,0
+1035515,Aston Villa,Shots insidebox,8
+1035515,Aston Villa,Shots outsidebox,1
+1035515,Aston Villa,Fouls,13
+1035515,Aston Villa,Corner Kicks,2
+1035515,Aston Villa,Offsides,2
+1035515,Aston Villa,Ball Possession,29%
+1035515,Aston Villa,Yellow Cards,3
+1035515,Aston Villa,Red Cards,
+1035515,Aston Villa,Goalkeeper Saves,3
+1035515,Aston Villa,Total passes,268
+1035515,Aston Villa,Passes accurate,207
+1035515,Aston Villa,Passes %,77%
+1035515,Aston Villa,expected_goals,1.10
+1035515,Chelsea,Shots on Goal,5
+1035515,Chelsea,Shots off Goal,10
+1035515,Chelsea,Total Shots,21
+1035515,Chelsea,Blocked Shots,6
+1035515,Chelsea,Shots insidebox,8
+1035515,Chelsea,Shots outsidebox,13
+1035515,Chelsea,Fouls,14
+1035515,Chelsea,Corner Kicks,4
+1035515,Chelsea,Offsides,4
+1035515,Chelsea,Ball Possession,71%
+1035515,Chelsea,Yellow Cards,5
+1035515,Chelsea,Red Cards,
+1035515,Chelsea,Goalkeeper Saves,3
+1035515,Chelsea,Total passes,664
+1035515,Chelsea,Passes accurate,608
+1035515,Chelsea,Passes %,92%
+1035515,Chelsea,expected_goals,1.57
+1035514,Bournemouth,Shots on Goal,6
+1035514,Bournemouth,Shots off Goal,4
+1035514,Bournemouth,Total Shots,15
+1035514,Bournemouth,Blocked Shots,5
+1035514,Bournemouth,Shots insidebox,12
+1035514,Bournemouth,Shots outsidebox,3
+1035514,Bournemouth,Fouls,14
+1035514,Bournemouth,Corner Kicks,8
+1035514,Bournemouth,Offsides,1
+1035514,Bournemouth,Ball Possession,30%
+1035514,Bournemouth,Yellow Cards,2
+1035514,Bournemouth,Red Cards,
+1035514,Bournemouth,Goalkeeper Saves,1
+1035514,Bournemouth,Total passes,250
+1035514,Bournemouth,Passes accurate,185
+1035514,Bournemouth,Passes %,74%
+1035514,Bournemouth,expected_goals,2.11
+1035514,Brighton,Shots on Goal,1
+1035514,Brighton,Shots off Goal,6
+1035514,Brighton,Total Shots,13
+1035514,Brighton,Blocked Shots,6
+1035514,Brighton,Shots insidebox,9
+1035514,Brighton,Shots outsidebox,4
+1035514,Brighton,Fouls,10
+1035514,Brighton,Corner Kicks,2
+1035514,Brighton,Offsides,1
+1035514,Brighton,Ball Possession,70%
+1035514,Brighton,Yellow Cards,2
+1035514,Brighton,Red Cards,
+1035514,Brighton,Goalkeeper Saves,3
+1035514,Brighton,Total passes,607
+1035514,Brighton,Passes accurate,539
+1035514,Brighton,Passes %,89%
+1035514,Brighton,expected_goals,0.94
